@@ -8,6 +8,7 @@ The dataset lands in an S3 data lake and flows into Snowflake through a storage 
 
 <img width="595" height="842" alt="architecture" src="https://github.com/user-attachments/assets/c8ebbff8-17d9-4caf-b88c-738ab6d63052" />
 
+<img width="590" height="297" alt="architecture" src="https://github.com/user-attachments/assets/045429bb-4bb9-498f-884a-a43e08fe8385" />
 
 
 ## What gets built
