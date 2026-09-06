@@ -6,7 +6,6 @@ A complete batch data pipeline that takes Doordash-style food delivery data from
 
 The dataset lands in an S3 data lake and flows into Snowflake through a storage integration, where dbt transforms it through medallion layers — RAW (Bronze) tables loaded via `COPY INTO`, cleaned STAGING (Silver) views, and business-ready MARTS (Gold) with dimensions, incremental facts, and aggregate marts. Apache Airflow orchestrates the whole pipeline as one daily DAG. On top of the warehouse sits an AI lane powered by OpenAI: LLM enrichment turns free-text reviews into structured, queryable columns; RAG lets you chat with your reviews; and text-to-SQL lets you query the warehouse in plain English. Streamlit serves the dashboards and AI apps.
 
-<img width="595" height="842" alt="architecture" src="https://github.com/user-attachments/assets/c8ebbff8-17d9-4caf-b88c-738ab6d63052" />
 
 <img width="590" height="297" alt="architecture" src="https://github.com/user-attachments/assets/045429bb-4bb9-498f-884a-a43e08fe8385" />
 
