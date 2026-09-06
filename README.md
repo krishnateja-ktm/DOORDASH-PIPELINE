@@ -61,13 +61,13 @@ The seven CSVs are uploaded to `s3://<BUCKET>/raw/<table>/` — one folder per t
 
 ### 2 · S3 → Snowflake: one keyless handshake
 
-Snowflake reads the bucket with **no stored keys**, using a storage integration + an IAM role. The Snowflake side is [`snowflake/02_storage_integration.sql`](snowflake/02_storage_integration.sql); the AWS JSON documents live in [`aws/iam/`](aws/iam/):
+Snowflake reads the bucket with **no stored keys**, using a storage integration + an IAM role. The Snowflake side is [`snowflake/02_storage_integration.sql`](snowflake/02_storage_integration.sql); the AWS JSON documents live in [`aws/iam/`](aws_iam/):
 
 | File | Used for |
 |---|---|
-| [`s3-read-policy.json`](aws/iam/s3-read-policy.json) | IAM **policy** `DOORDASH-s3-read` — read-only access to the bucket |
-| [`snowflake-role-trust-policy-initial.json`](aws/iam/snowflake-role-trust-policy-initial.json) | IAM **role** `snowflake-s3-role` — placeholder trust used at creation time |
-| [`snowflake-role-trust-policy-final.json`](aws/iam/snowflake-role-trust-policy-final.json) | Final trust — Snowflake's IAM user ARN + external ID from `DESC INTEGRATION` |
+| [`s3-read-policy.json`](aws_iam/s3-read-policy.json) | IAM **policy** `DOORDASH-s3-read` — read-only access to the bucket |
+| [`snowflake-role-trust-policy-initial.json`](aws_iam/snowflake-role-trust-policy-initial.json) | IAM **role** `snowflake-s3-role` — placeholder trust used at creation time |
+| [`snowflake-role-trust-policy-final.json`](aws_iam/snowflake-role-trust-policy-final.json) | Final trust — Snowflake's IAM user ARN + external ID from `DESC INTEGRATION` |
 
 The order matters: create the AWS policy + role → create the Snowflake `STORAGE INTEGRATION` pointing at the role ARN → `DESC INTEGRATION` to get `STORAGE_AWS_IAM_USER_ARN` and `STORAGE_AWS_EXTERNAL_ID` → paste both into the role's trust policy. (Two hard-won lessons: the trust `Principal` must be Snowflake's IAM user ARN, not `:root` — and never re-run `CREATE OR REPLACE` on the integration afterward, it regenerates the external ID and breaks the trust.)
 
@@ -85,7 +85,7 @@ Table DDL ([`snowflake/04_raw_tables.sql`](snowflake/04_raw_tables.sql)) matches
 
 ### 5 · Orchestrate — Airflow
 
-One daily DAG, [`DOORDASH_batch`](airflow/dags/DOORDASH_batch.py), runs the whole thing as a single graph:
+One daily DAG, [`DOORDASH_batch`](airflow/dags/doordash_batch.py), runs the whole thing as a single graph:
 
 ```
 reload_raw  →  dbt_build_core  →  enrich_reviews  →  dbt_build_ai
