@@ -1,0 +1,13 @@
+# DOORDASH-PIPELINE/profiles.yml
+default: # This must match the profile name defined in your dbt_project.yml
+  target: dev
+  outputs:
+    dev:
+      type: snowflake  # or bigquery, postgres, etc.
+      account: 
+      user: 
+      password: "" # Best practice: use env vars for secrets!
+      role: 
+      warehouse: 
+      database: 
+      schema: 

@@ -1,0 +1,1495 @@
+==================== 2026-08-28T18:28:08.165337Z | 00000000-0000-0000-0000-000000000000 ====================
+==================== 2026-08-28T18:28:08.170959Z | ba4320ae-b5c5-4dd4-9f91-e81c41f2c56c ====================
+18:28:08.171484 [info ]: Starting dbt LSP server
+18:28:08.172405 [info ]: Connecting to LSP client on port 8000
+18:28:08.176530 [info ]: Successfully connected to LSP client
+18:28:08.176749 [info ]: Creating LSP service...
+18:28:08.183515 [info ]: Creating LSP server...
+18:28:08.183557 [info ]: Starting LSP server...
+18:28:08.245566 [info ]: Loading profiles.yml
+==================== 2026-08-28T18:29:27.519106Z | 8f593afb-46af-4d8f-9999-a405d3eb438e ====================
+18:29:27.522277 [info ]: Started loading project
+18:29:27.532088 [info ]: Loading profiles.yml
+18:29:27.537573 [error]: [IoError (dbt1001)]: Profile 'default' not found in profiles.yml
+  --> dbt_project.yml:9:10
+18:29:27.539976 [info ]: Finished loading project [  0.02s]
+18:29:27.540940 [info ]: 
+==================== Execution Summary =====================
+Finished 'compile' with 1 error [21ms]
+==================== 2026-08-28T18:29:27.697128Z | 50298c76-4287-44c4-ac2c-83fa583624b6 ====================
+18:29:27.697273 [info ]: Started loading project
+18:29:27.698261 [info ]: Loading profiles.yml
+18:29:27.699071 [error]: [IoError (dbt1001)]: Profile 'default' not found in profiles.yml
+  --> dbt_project.yml:9:10
+18:29:27.699375 [info ]: Finished loading project [  0.00s]
+18:29:27.699403 [info ]: 
+==================== Execution Summary =====================
+Finished 'compile' with 1 error [2ms]
+==================== 2026-08-28T18:29:27.877979Z | b800e57e-2c7d-4870-9974-b6c9d2493a9e ====================
+18:29:27.878121 [info ]: Started loading project
+18:29:27.879700 [info ]: Loading profiles.yml
+18:29:27.880272 [error]: [IoError (dbt1001)]: Profile 'default' not found in profiles.yml
+  --> dbt_project.yml:9:10
+18:29:27.880424 [info ]: Finished loading project [  0.00s]
+18:29:27.880447 [info ]: 
+==================== Execution Summary =====================
+Finished 'compile' with 1 error [2ms]
+==================== 2026-08-28T18:29:28.035244Z | c8fa2e15-63d7-417b-bd57-dcc6f809df48 ====================
+18:29:28.035349 [info ]: Started loading project
+18:29:28.036284 [info ]: Loading profiles.yml
+18:29:28.036938 [error]: [IoError (dbt1001)]: Profile 'default' not found in profiles.yml
+  --> dbt_project.yml:9:10
+18:29:28.037117 [info ]: Finished loading project [  0.00s]
+18:29:28.037152 [info ]: 
+==================== Execution Summary =====================
+Finished 'compile' with 1 error [1ms]
+==================== 2026-08-28T18:29:37.797098Z | 2dcfc492-44e3-4b59-bd11-07f99131ef8d ====================
+18:29:37.797228 [info ]: Started loading project
+18:29:37.798460 [info ]: Loading profiles.yml
+18:29:37.799304 [error]: [IoError (dbt1001)]: Profile 'default' not found in profiles.yml
+  --> dbt_project.yml:9:10
+18:29:37.799561 [info ]: Finished loading project [  0.00s]
+18:29:37.799586 [info ]: 
+==================== Execution Summary =====================
+Finished 'compile' with 1 error [2ms]
+18:29:52.826941 [info ]: Loading profiles.yml
+18:30:11.979328 [info ]: Loading profiles.yml
+18:35:58.677166 [info ]: Loading profiles.yml
+==================== 2026-08-28T18:36:45.561678Z | b1777a7b-05fc-4f47-a788-dc2e63e715a8 ====================
+18:36:45.561804 [info ]: Started loading project
+18:36:45.562581 [info ]: Loading profiles.yml
+18:36:45.563192 [error]: [IoError (dbt1001)]: Profile 'default' not found in profiles.yml
+  --> dbt_project.yml:9:10
+18:36:45.563375 [info ]: Finished loading project [  0.00s]
+18:36:45.563397 [info ]: 
+==================== Execution Summary =====================
+Finished 'compile' with 1 error [1ms]
+==================== 2026-08-28T18:36:45.750989Z | eb5ec3cf-77f0-4425-8371-463f5a01ce2f ====================
+18:36:45.751142 [info ]: Started loading project
+18:36:45.752251 [info ]: Loading profiles.yml
+18:36:45.753085 [error]: [IoError (dbt1001)]: Profile 'default' not found in profiles.yml
+  --> dbt_project.yml:9:10
+18:36:45.753338 [info ]: Finished loading project [  0.00s]
+18:36:45.753364 [info ]: 
+==================== Execution Summary =====================
+Finished 'compile' with 1 error [2ms]
+==================== 2026-08-28T18:36:45.935979Z | d85fc42b-4d39-400f-95fe-f5f2f5ffb270 ====================
+18:36:45.936074 [info ]: Started loading project
+18:36:45.936808 [info ]: Loading profiles.yml
+18:36:45.937341 [error]: [IoError (dbt1001)]: Profile 'default' not found in profiles.yml
+  --> dbt_project.yml:9:10
+18:36:45.937489 [info ]: Finished loading project [  0.00s]
+18:36:45.937508 [info ]: 
+==================== Execution Summary =====================
+Finished 'compile' with 1 error [1ms]
+==================== 2026-08-28T18:36:46.154609Z | cd2ebf7a-de17-480a-a6c3-fc2224ece787 ====================
+18:36:46.154710 [info ]: Started loading project
+18:36:46.156151 [info ]: Loading profiles.yml
+18:36:46.157051 [error]: [IoError (dbt1001)]: Profile 'default' not found in profiles.yml
+  --> dbt_project.yml:9:10
+18:36:46.157336 [info ]: Finished loading project [  0.00s]
+18:36:46.157377 [info ]: 
+==================== Execution Summary =====================
+Finished 'compile' with 1 error [2ms]
+==================== 2026-08-28T18:36:46.339309Z | 39df81b9-640d-45b7-b57b-ae4e55a920c4 ====================
+18:36:46.339413 [info ]: Started loading project
+18:36:46.340360 [info ]: Loading profiles.yml
+18:36:46.341114 [error]: [IoError (dbt1001)]: Profile 'default' not found in profiles.yml
+  --> dbt_project.yml:9:10
+18:36:46.341359 [info ]: Finished loading project [  0.00s]
+18:36:46.341432 [info ]: 
+==================== Execution Summary =====================
+Finished 'compile' with 1 error [2ms]
+18:37:01.574103 [info ]: Loading profiles.yml
+18:37:13.894004 [info ]: Loading profiles.yml
+18:40:24.300525 [info ]: Loading profiles.yml
+==================== 2026-08-28T18:41:30.720043Z | e826a29b-6a51-4497-9f94-5894f96497cd ====================
+18:41:30.720172 [info ]: Started loading project
+18:41:30.720997 [info ]: Loading profiles.yml
+18:41:30.721870 [error]: [IoError (dbt1001)]: Profile 'default' not found in profiles.yml
+  --> dbt_project.yml:9:10
+18:41:30.722060 [info ]: Finished loading project [  0.00s]
+18:41:30.722083 [info ]: 
+==================== Execution Summary =====================
+Finished 'compile' with 1 error [2ms]
+==================== 2026-08-28T18:41:30.891370Z | 111d9067-49f1-4833-bd90-757519203c09 ====================
+18:41:30.892976 [info ]: Started loading project
+18:41:30.893858 [info ]: Loading profiles.yml
+18:41:30.894404 [error]: [IoError (dbt1001)]: Profile 'default' not found in profiles.yml
+  --> dbt_project.yml:9:10
+18:41:30.894561 [info ]: Finished loading project [  0.00s]
+18:41:30.894588 [info ]: 
+==================== Execution Summary =====================
+Finished 'compile' with 1 error [3ms]
+==================== 2026-08-28T18:41:31.057685Z | 114d03b1-40dd-496f-87bf-203138f97caa ====================
+18:41:31.057771 [info ]: Started loading project
+18:41:31.058429 [info ]: Loading profiles.yml
+18:41:31.058877 [error]: [IoError (dbt1001)]: Profile 'default' not found in profiles.yml
+  --> dbt_project.yml:9:10
+18:41:31.059028 [info ]: Finished loading project [  0.00s]
+18:41:31.059056 [info ]: 
+==================== Execution Summary =====================
+Finished 'compile' with 1 error [1ms]
+==================== 2026-08-28T18:41:31.455870Z | 40039cd8-c078-4c31-bf45-224a957a5216 ====================
+18:41:31.455987 [info ]: Started loading project
+18:41:31.456796 [info ]: Loading profiles.yml
+18:41:31.457342 [error]: [IoError (dbt1001)]: Profile 'default' not found in profiles.yml
+  --> dbt_project.yml:9:10
+18:41:31.457520 [info ]: Finished loading project [  0.00s]
+18:41:31.457546 [info ]: 
+==================== Execution Summary =====================
+Finished 'compile' with 1 error [1ms]
+==================== 2026-08-28T18:41:31.654229Z | 7d55a86a-9a19-4957-a0dc-c839ff2f6e41 ====================
+18:41:31.654340 [info ]: Started loading project
+18:41:31.655025 [info ]: Loading profiles.yml
+18:41:31.655504 [error]: [IoError (dbt1001)]: Profile 'default' not found in profiles.yml
+  --> dbt_project.yml:9:10
+18:41:31.655659 [info ]: Finished loading project [  0.00s]
+18:41:31.655677 [info ]: 
+==================== Execution Summary =====================
+Finished 'compile' with 1 error [1ms]
+==================== 2026-08-28T18:41:31.898171Z | 6cb97bdd-7d52-4751-bad0-130ec27bcddc ====================
+18:41:31.898352 [info ]: Started loading project
+18:41:31.899555 [info ]: Loading profiles.yml
+18:41:31.900290 [error]: [IoError (dbt1001)]: Profile 'default' not found in profiles.yml
+  --> dbt_project.yml:9:10
+18:41:31.900496 [info ]: Finished loading project [  0.00s]
+18:41:31.900518 [info ]: 
+==================== Execution Summary =====================
+Finished 'compile' with 1 error [2ms]
+18:42:13.905962 [info ]: Loading profiles.yml
+18:42:25.172782 [info ]: Loading profiles.yml
+==================== 2026-08-28T18:44:58.905739Z | 1e86a0b8-73b1-4fe6-a21b-9e9cb4c29fe9 ====================
+18:44:58.905889 [info ]: Started loading project
+18:44:58.906941 [info ]: Loading profiles.yml
+18:44:58.965827 [debug]:    Started loading packages
+18:44:58.998934 [debug]:     Loaded [  0.03s] packages
+18:44:59.008851 [info ]: Finished loading project [  0.10s]
+18:44:59.013946 [info ]: Started parsing
+18:44:59.111276 [info ]: Finished parsing [  0.10s]
+18:44:59.112412 [info ]: 
+==================== Execution Summary =====================
+Finished 'compile' successfully for target 'dev' [206ms]
+==================== 2026-08-28T18:44:59.176048Z | 0ddbd761-890c-4f96-8672-9c3623674973 ====================
+18:44:59.176260 [info ]: Started loading project
+18:44:59.177439 [info ]: Loading profiles.yml
+18:44:59.183767 [debug]:    Started loading packages
+18:44:59.192531 [debug]:     Loaded [  0.01s] packages
+18:44:59.193455 [info ]: Finished loading project [  0.02s]
+18:44:59.193662 [info ]: Started parsing
+18:44:59.271750 [debug]: Finished parsing models/staging/_sources.yml [  0.03s]
+18:44:59.281050 [info ]: Finished parsing [  0.09s]
+18:44:59.281505 [info ]: 
+==================== Execution Summary =====================
+Finished 'compile' successfully for target 'dev' [105ms]
+==================== 2026-08-28T18:44:59.378882Z | 9d4a9dec-6f32-439e-b9a1-6a1a273afa31 ====================
+18:44:59.378966 [info ]: Started loading project
+18:44:59.379660 [info ]: Loading profiles.yml
+18:44:59.386618 [debug]:    Started loading packages
+18:44:59.396258 [debug]:     Loaded [  0.01s] packages
+18:44:59.397237 [info ]: Finished loading project [  0.02s]
+18:44:59.397450 [info ]: Started parsing
+18:44:59.440558 [debug]: Finished parsing models/staging/_sources.yml [  0.00s]
+18:44:59.455332 [debug]: Finished parsing tests/_marts.yml [  0.01s]
+18:44:59.468720 [debug]: Finished parsing tests/_staging.yml [  0.01s]
+18:44:59.525488 [debug]: Finished parsing models/marts/dim_customer.sql [  0.04s]
+18:44:59.532981 [info ]: Finished parsing [  0.14s]
+18:44:59.533518 [info ]: 
+==================== Execution Summary =====================
+Finished 'compile' successfully for target 'dev' [154ms]
+==================== 2026-08-28T18:44:59.605554Z | 3a03618f-5f69-4105-90fc-525ae59ce03c ====================
+18:44:59.605647 [info ]: Started loading project
+18:44:59.606620 [info ]: Loading profiles.yml
+18:44:59.612577 [debug]:    Started loading packages
+18:44:59.625140 [debug]:     Loaded [  0.01s] packages
+18:44:59.626067 [info ]: Finished loading project [  0.02s]
+18:44:59.626278 [info ]: Started parsing
+18:44:59.670381 [debug]: Finished parsing models/staging/_sources.yml [  0.00s]
+18:44:59.670816 [debug]: Finished parsing tests/_marts.yml [  0.00s]
+18:44:59.671259 [debug]: Finished parsing tests/_staging.yml [  0.00s]
+18:44:59.673716 [debug]: Finished parsing models/marts/dim_customer.sql [  0.00s]
+18:44:59.676192 [info ]: Loading profiles.yml
+18:44:59.693208 [debug]: Finished parsing models/marts/dim_date.sql [  0.02s]
+18:44:59.703357 [debug]: Finished parsing models/marts/dim_food.sql [  0.01s]
+18:44:59.714149 [debug]: Finished parsing models/marts/dim_restaurants.sql [  0.01s]
+18:44:59.738183 [debug]: Finished parsing models/marts/fact_order_items.sql [  0.02s]
+18:44:59.744273 [info ]: Finished parsing [  0.12s]
+18:44:59.744690 [info ]: 
+==================== Execution Summary =====================
+Finished 'compile' successfully for target 'dev' [139ms]
+==================== 2026-08-28T18:44:59.793355Z | 4c163313-a698-4b3d-a53e-3a101bc9c261 ====================
+18:44:59.793441 [info ]: Started loading project
+18:44:59.794072 [info ]: Loading profiles.yml
+18:44:59.799419 [debug]:    Started loading packages
+18:44:59.810220 [debug]:     Loaded [  0.01s] packages
+18:44:59.811276 [info ]: Finished loading project [  0.02s]
+18:44:59.811494 [info ]: Started parsing
+18:44:59.860234 [debug]: Finished parsing models/staging/_sources.yml [  0.00s]
+18:44:59.860622 [debug]: Finished parsing tests/_marts.yml [  0.00s]
+18:44:59.860921 [debug]: Finished parsing tests/_staging.yml [  0.00s]
+18:44:59.862668 [debug]: Finished parsing models/marts/dim_customer.sql [  0.00s]
+18:44:59.863189 [debug]: Finished parsing models/marts/dim_date.sql [  0.00s]
+18:44:59.863700 [debug]: Finished parsing models/marts/dim_food.sql [  0.00s]
+18:44:59.864138 [debug]: Finished parsing models/marts/dim_restaurants.sql [  0.00s]
+18:44:59.864891 [debug]: Finished parsing models/marts/fact_order_items.sql [  0.00s]
+18:44:59.880607 [debug]: Finished parsing models/marts/fact_orders.sql [  0.02s]
+18:44:59.895110 [debug]: Finished parsing models/marts/mart_daily_city_revenue.sql [  0.01s]
+18:44:59.908028 [debug]: Finished parsing models/marts/mart_delivery_sla.sql [  0.01s]
+18:44:59.923518 [debug]: Finished parsing models/marts/mart_restaurants_performance.sql [  0.02s]
+18:44:59.938963 [debug]: Finished parsing models/staging/stg_food.sql [  0.02s]
+18:44:59.952749 [debug]: Finished parsing models/staging/stg_menu.sql [  0.01s]
+18:44:59.969837 [debug]: Finished parsing models/staging/stg_order_items.sql [  0.02s]
+18:44:59.976152 [info ]: Finished parsing [  0.16s]
+18:44:59.976652 [info ]: 
+==================== Execution Summary =====================
+Finished 'compile' successfully for target 'dev' [183ms]
+==================== 2026-08-28T18:45:00.036983Z | 939139cc-f1c7-4c32-9a80-533d5357de5f ====================
+18:45:00.037074 [info ]: Started loading project
+18:45:00.037820 [info ]: Loading profiles.yml
+18:45:00.044450 [debug]:    Started loading packages
+18:45:00.055416 [debug]:     Loaded [  0.01s] packages
+18:45:00.056264 [info ]: Finished loading project [  0.02s]
+18:45:00.056516 [info ]: Started parsing
+18:45:00.105229 [debug]: Finished parsing models/staging/_sources.yml [  0.00s]
+18:45:00.105738 [debug]: Finished parsing tests/_marts.yml [  0.00s]
+18:45:00.106257 [debug]: Finished parsing tests/_staging.yml [  0.00s]
+18:45:00.110072 [debug]: Finished parsing models/marts/dim_customer.sql [  0.00s]
+18:45:00.110978 [debug]: Finished parsing models/marts/dim_date.sql [  0.00s]
+18:45:00.111525 [debug]: Finished parsing models/marts/dim_food.sql [  0.00s]
+18:45:00.112076 [debug]: Finished parsing models/marts/dim_restaurants.sql [  0.00s]
+18:45:00.113105 [debug]: Finished parsing models/marts/fact_order_items.sql [  0.00s]
+18:45:00.114069 [debug]: Finished parsing models/marts/fact_orders.sql [  0.00s]
+18:45:00.114656 [debug]: Finished parsing models/marts/mart_daily_city_revenue.sql [  0.00s]
+18:45:00.115258 [debug]: Finished parsing models/marts/mart_delivery_sla.sql [  0.00s]
+18:45:00.116274 [debug]: Finished parsing models/marts/mart_restaurants_performance.sql [  0.00s]
+18:45:00.116982 [debug]: Finished parsing models/staging/stg_food.sql [  0.00s]
+18:45:00.118882 [debug]: Finished parsing models/staging/stg_menu.sql [  0.00s]
+18:45:00.120146 [debug]: Finished parsing models/staging/stg_order_items.sql [  0.00s]
+18:45:00.137527 [debug]: Finished parsing models/staging/stg_orders.sql [  0.02s]
+18:45:00.152923 [debug]: Finished parsing models/staging/stg_restaurants.sql [  0.02s]
+18:45:00.167185 [debug]: Finished parsing models/staging/stg_reviews.sql [  0.01s]
+18:45:00.181329 [debug]: Finished parsing models/staging/stg_users.sql [  0.01s]
+18:45:00.343562 [warn ]: [UnusedResourceConfigPath (dbt1097)]: Configuration paths exist in your dbt_project.yml file which do not apply to any resources.
+There are 1 unused configuration paths:
+- models.snapshots.doordash
+18:45:00.347123 [info ]: Finished parsing [  0.29s]
+18:45:00.353243 [info ]: Cached model count updated: 16 models (estimate)
+18:45:00.353281 [info ]: Cached model count updated: 16 models (accurate)
+18:45:00.354877 [info ]: Started scheduling
+18:45:00.358541 [info ]: Finished scheduling [  0.00s]
+18:45:00.358921 [debug]: Compilation - 0 nodes selected: {}
+18:45:00.359835 [warn ]: [NoNodesForSelectionCriteria (dbt1092)]: The selection criterion '' does not match any enabled nodes
+18:45:00.359956 [warn ]: [NoNodesSelected (dbt1601)]: Nothing to do. Try checking your model configs and model specification args
+18:45:00.360177 [info ]: Started scheduling
+18:45:00.361146 [info ]: Finished scheduling [  0.00s]
+18:45:00.364730 [debug]: Initializing schema store with entry: Frontier(CanonicalFqn { catalog: "DOORDASH", schema: "RAW", table: "REVIEWS" }) and interval: None
+18:45:00.364983 [debug]: Initializing schema store with entry: Frontier(CanonicalFqn { catalog: "DOORDASH", schema: "RAW", table: "MENU" }) and interval: None
+18:45:00.364989 [debug]: Initializing schema store with entry: Frontier(CanonicalFqn { catalog: "DOORDASH", schema: "RAW", table: "ORDERS" }) and interval: None
+18:45:00.364993 [debug]: Initializing schema store with entry: Frontier(CanonicalFqn { catalog: "DOORDASH", schema: "RAW", table: "RESTAURANTS" }) and interval: None
+18:45:00.364996 [debug]: Initializing schema store with entry: Frontier(CanonicalFqn { catalog: "DOORDASH", schema: "RAW", table: "ORDER_ITEMS" }) and interval: None
+18:45:00.365000 [debug]: Initializing schema store with entry: Frontier(CanonicalFqn { catalog: "DOORDASH", schema: "RAW", table: "FOOD" }) and interval: None
+18:45:00.365003 [debug]: Initializing schema store with entry: Frontier(CanonicalFqn { catalog: "DOORDASH", schema: "RAW", table: "USERS" }) and interval: None
+18:45:00.381903 [info ]: Started building task graph
+18:45:00.383575 [info ]: Finished building task graph [  0.00s]
+18:45:00.438287 [info ]: Started scheduling
+18:45:00.438408 [info ]: Finished scheduling [  0.00s]
+18:45:00.439304 [info ]: 
+==================== Execution Summary =====================
+Finished 'compile' with 3 warnings for target 'dev' [402ms]
+18:45:00.439445 [info ]: Cached model count updated: 16 models (accurate)
+==================== 2026-08-28T18:45:01.993341Z | 91a20996-4898-4f29-893a-82465e406ceb ====================
+18:45:01.993436 [info ]: Started loading project
+18:45:01.994516 [info ]: Loading profiles.yml
+18:45:02.069020 [info ]: Cached model count updated: 16 models (estimate)
+18:45:02.069069 [info ]: Cached model count updated: 16 models (accurate)
+18:45:02.069159 [info ]: Started scheduling
+18:45:02.069405 [info ]: Finished scheduling [  0.00s]
+18:45:02.069435 [debug]: Compilation - 16 nodes selected: {"model.doordash.dim_customer", "model.doordash.dim_date", "model.doordash.dim_food", "model.doordash.dim_restaurants", "model.doordash.fact_order_items", "model.doordash.fact_orders", "model.doordash.mart_daily_city_revenue", "model.doordash.mart_delivery_sla", "model.doordash.mart_restaurants_performance", "model.doordash.stg_food", "model.doordash.stg_menu", "model.doordash.stg_order_items", "model.doordash.stg_orders", "model.doordash.stg_restaurants", "model.doordash.stg_reviews", "model.doordash.stg_users"}
+18:45:02.075448 [debug]:    Started downloading relations (1 items)
+18:45:02.078373 [info ]: Finished loading project [  0.08s]
+18:45:02.081241 [debug]: Snowflake driver resolved: snowflake 0.21.0.dev+dbt0.21.16
+18:45:08.492356 [debug]: create_debug_span(...).entered() took 859.1µs
+18:45:08.754963 [debug]: stmt.execute() (submit+wait_for_completion, returns reader) took 261.2118ms
+18:45:08.755218 [debug]: reader.schema() took 187.9µs
+18:45:08.773337 [debug]: batch-consume loop (for res in reader) took 18.0823ms
+18:45:08.775737 [debug]: do_execute(conn) (closure: stmt.execute + schema + batch loop) took 283.3295ms
+18:45:08.779603 [debug]: concat_batches + normalize_result_column_names took 3.8274ms
+18:45:08.779818 [debug]: record_current_span_status_from_attrs took 180.7µs
+18:45:08.780096 [debug]: Query executed on node unknown:
+SHOW OBJECTS IN SCHEMA "DOORDASH"."MARTS" LIMIT 10000
+18:45:08.780121 [debug]: drop(query_span_guard) (span exit/export) took 286µs
+18:45:09.503092 [debug]:   Finished [  7.43s] downloading relations (1 items)
+18:45:09.504402 [info ]: Started building task graph
+18:45:09.506830 [info ]: Finished building task graph [  0.00s]
+18:45:09.515532 [info ]: Started rendering (16 nodes)
+18:45:09.516988 [info ]: Started model staging.stg_reviews
+18:45:09.517502 [debug]: Started rendering model staging.stg_reviews
+18:45:09.518435 [info ]: Started model staging.stg_menu
+18:45:09.518508 [debug]: Started rendering model staging.stg_menu
+18:45:09.518575 [info ]: Started model marts.mart_restaurants_performance
+18:45:09.518591 [debug]: Started rendering model marts.mart_restaurants_performance
+18:45:09.518611 [info ]: Started model marts.mart_delivery_sla
+18:45:09.518623 [debug]: Started rendering model marts.mart_delivery_sla
+18:45:09.518642 [info ]: Started model marts.mart_daily_city_revenue
+18:45:09.518653 [debug]: Started rendering model marts.mart_daily_city_revenue
+18:45:09.518672 [info ]: Started model marts.fact_orders
+18:45:09.518683 [debug]: Started rendering model marts.fact_orders
+18:45:09.518697 [info ]: Started model marts.fact_order_items
+18:45:09.518704 [debug]: Started rendering model marts.fact_order_items
+18:45:09.518720 [info ]: Started model staging.stg_orders
+18:45:09.518728 [debug]: Started rendering model staging.stg_orders
+18:45:09.518747 [info ]: Started model staging.stg_order_items
+18:45:09.518763 [debug]: Started rendering model staging.stg_order_items
+18:45:09.518791 [info ]: Started model marts.dim_restaurants
+18:45:09.518801 [debug]: Started rendering model marts.dim_restaurants
+18:45:09.518819 [info ]: Started model staging.stg_restaurants
+18:45:09.518833 [debug]: Started rendering model staging.stg_restaurants
+18:45:09.518850 [info ]: Started model marts.dim_food
+18:45:09.518860 [debug]: Started rendering model marts.dim_food
+18:45:09.518879 [info ]: Started model staging.stg_food
+18:45:09.518889 [debug]: Started rendering model staging.stg_food
+18:45:09.518914 [info ]: Started model marts.dim_date
+18:45:09.518922 [debug]: Started rendering model marts.dim_date
+18:45:09.518938 [info ]: Started model marts.dim_customer
+18:45:09.518948 [debug]: Started rendering model marts.dim_customer
+18:45:09.518976 [info ]: Started model staging.stg_users
+18:45:09.518987 [debug]: Started rendering model staging.stg_users
+18:45:09.560070 [debug]: Compiled SQL for node model.doordash.dim_date at target\.lsp\compiled\doordash\models\marts\dim_date.sql
+18:45:09.562103 [debug]: Finished rendering [  0.04s] model marts.dim_date [success]
+18:45:09.563022 [info ]: Started analyzing (16 nodes)
+18:45:09.563054 [debug]: Started analyzing model marts.dim_date
+18:45:09.611148 [debug]: Compiled SQL for node model.doordash.stg_users at target\.lsp\compiled\doordash\models\staging\stg_users.sql
+18:45:09.611575 [debug]: Finished rendering [  0.09s] model staging.stg_users [success]
+18:45:09.611627 [debug]: Started analyzing model staging.stg_users
+18:45:09.611650 [debug]: Compiled SQL for node model.doordash.stg_food at target\.lsp\compiled\doordash\models\staging\stg_food.sql
+18:45:09.611735 [debug]: Compiled SQL for node model.doordash.stg_reviews at target\.lsp\compiled\doordash\models\staging\stg_reviews.sql
+18:45:09.611843 [debug]: Finished rendering [  0.09s] model staging.stg_food [success]
+18:45:09.611890 [debug]: Started analyzing model staging.stg_food
+18:45:09.612327 [debug]: Finished rendering [  0.09s] model staging.stg_reviews [success]
+18:45:09.612452 [debug]: Started analyzing model staging.stg_reviews
+18:45:09.612640 [debug]: Compiled SQL for node model.doordash.stg_menu at target\.lsp\compiled\doordash\models\staging\stg_menu.sql
+18:45:09.612585 [debug]: Compiled SQL for node model.doordash.stg_order_items at target\.lsp\compiled\doordash\models\staging\stg_order_items.sql
+18:45:09.613120 [debug]: Finished rendering [  0.09s] model staging.stg_menu [success]
+18:45:09.613156 [debug]: Started analyzing model staging.stg_menu
+18:45:09.613202 [debug]: Finished rendering [  0.09s] model staging.stg_order_items [success]
+18:45:09.613231 [debug]: Started analyzing model staging.stg_order_items
+18:45:09.613778 [debug]: Compiled SQL for node model.doordash.stg_orders at target\.lsp\compiled\doordash\models\staging\stg_orders.sql
+18:45:09.614091 [debug]: Finished rendering [  0.10s] model staging.stg_orders [success]
+18:45:09.614117 [debug]: Started analyzing model staging.stg_orders
+18:45:09.614305 [debug]: Compiled SQL for node model.doordash.stg_restaurants at target\.lsp\compiled\doordash\models\staging\stg_restaurants.sql
+18:45:09.614539 [debug]: Finished rendering [  0.10s] model staging.stg_restaurants [success]
+18:45:09.614582 [debug]: Started analyzing model staging.stg_restaurants
+18:45:09.628472 [debug]: Compiled SQL for node model.doordash.mart_restaurants_performance at target\.lsp\compiled\doordash\models\marts\mart_restaurants_performance.sql
+18:45:09.637840 [debug]: Finished rendering [  0.12s] model marts.mart_restaurants_performance [success]
+18:45:09.637932 [debug]: Started analyzing model marts.mart_restaurants_performance
+18:45:09.638041 [debug]: Compiled SQL for node model.doordash.dim_customer at target\.lsp\compiled\doordash\models\marts\dim_customer.sql
+18:45:09.639159 [debug]: Compiled SQL for node model.doordash.mart_delivery_sla at target\.lsp\compiled\doordash\models\marts\mart_delivery_sla.sql
+18:45:09.640019 [debug]: Finished analyzing [  0.03s] model staging.stg_users [success]
+18:45:09.640099 [info ]:  Succeeded [  0.12s] model staging.stg_users (view)
+18:45:09.640188 [debug]: Finished analyzing [  0.03s] model staging.stg_menu [success]
+18:45:09.640343 [info ]:  Succeeded [  0.12s] model staging.stg_menu (view)
+18:45:09.640428 [debug]: Finished rendering [  0.12s] model marts.mart_delivery_sla [success]
+18:45:09.640451 [debug]: Started analyzing model marts.mart_delivery_sla
+18:45:09.640478 [debug]: Finished rendering [  0.12s] model marts.dim_customer [success]
+18:45:09.640488 [debug]: Started analyzing model marts.dim_customer
+18:45:09.640786 [debug]: Finished analyzing [  0.08s] model marts.dim_date [success]
+18:45:09.640812 [info ]:  Succeeded [  0.12s] model marts.dim_date (table)
+18:45:09.641653 [debug]: Finished analyzing [  0.03s] model staging.stg_order_items [success]
+18:45:09.642214 [info ]:  Succeeded [  0.12s] model staging.stg_order_items (view)
+18:45:09.643886 [debug]: Finished analyzing [  0.03s] model staging.stg_food [success]
+18:45:09.643945 [info ]:  Succeeded [  0.12s] model staging.stg_food (view)
+18:45:09.647233 [debug]: Finished analyzing [  0.01s] model marts.dim_customer [success]
+18:45:09.647284 [info ]:  Succeeded [  0.13s] model marts.dim_customer (table)
+18:45:09.652545 [debug]: Finished analyzing [  0.04s] model staging.stg_orders [success]
+18:45:09.652595 [info ]:  Succeeded [  0.13s] model staging.stg_orders (view)
+18:45:09.652853 [debug]: Finished analyzing [  0.04s] model staging.stg_restaurants [success]
+18:45:09.652878 [info ]:  Succeeded [  0.13s] model staging.stg_restaurants (view)
+18:45:09.654815 [debug]: Finished analyzing [  0.01s] model marts.mart_delivery_sla [success]
+18:45:09.654867 [info ]:  Succeeded [  0.14s] model marts.mart_delivery_sla (table)
+18:45:09.655209 [debug]: Finished analyzing [  0.02s] model marts.mart_restaurants_performance [success]
+18:45:09.655242 [info ]:  Succeeded [  0.14s] model marts.mart_restaurants_performance (table)
+18:45:09.655626 [debug]: Compiled SQL for node model.doordash.fact_order_items at target\.lsp\compiled\doordash\models\marts\fact_order_items.sql
+18:45:09.656441 [debug]: Compiled SQL for node model.doordash.mart_daily_city_revenue at target\.lsp\compiled\doordash\models\marts\mart_daily_city_revenue.sql
+18:45:09.657336 [debug]: Finished rendering [  0.14s] model marts.mart_daily_city_revenue [success]
+18:45:09.657593 [debug]: Started analyzing model marts.mart_daily_city_revenue
+18:45:09.658105 [debug]: Finished rendering [  0.14s] model marts.fact_order_items [success]
+18:45:09.658143 [debug]: Started analyzing model marts.fact_order_items
+18:45:09.660115 [debug]: Compiled SQL for node model.doordash.fact_orders at target\.lsp\compiled\doordash\models\marts\fact_orders.sql
+18:45:09.660369 [debug]: Finished rendering [  0.14s] model marts.fact_orders [success]
+18:45:09.660419 [debug]: Started analyzing model marts.fact_orders
+18:45:09.661054 [debug]: Compiled SQL for node model.doordash.dim_restaurants at target\.lsp\compiled\doordash\models\marts\dim_restaurants.sql
+18:45:09.662673 [debug]: Finished rendering [  0.14s] model marts.dim_restaurants [success]
+18:45:09.662726 [debug]: Started analyzing model marts.dim_restaurants
+18:45:09.663245 [debug]: Finished analyzing [  0.00s] model marts.dim_restaurants [success]
+18:45:09.663270 [info ]:  Succeeded [  0.14s] model marts.dim_restaurants (table)
+18:45:09.669402 [debug]: Compiled SQL for node model.doordash.dim_food at target\.lsp\compiled\doordash\models\marts\dim_food.sql
+18:45:09.669808 [debug]: Finished rendering [  0.15s] model marts.dim_food [success]
+18:45:09.669841 [info ]: Finished rendering [  0.15s] (16 nodes, 0 skipped, 0 errors)
+18:45:09.669877 [debug]: Started analyzing model marts.dim_food
+18:45:09.670247 [debug]: Finished analyzing [  0.00s] model marts.dim_food [success]
+18:45:09.670300 [info ]:  Succeeded [  0.15s] model marts.dim_food (table)
+18:45:09.673623 [debug]: Finished analyzing [  0.01s] model marts.fact_orders [success]
+18:45:09.673674 [info ]:  Succeeded [  0.15s] model marts.fact_orders (incremental)
+18:45:09.673716 [debug]: Finished analyzing [  0.02s] model marts.fact_order_items [success]
+18:45:09.673733 [info ]:  Succeeded [  0.15s] model marts.fact_order_items (incremental)
+18:45:09.674187 [debug]: Finished analyzing [  0.06s] model staging.stg_reviews [success]
+18:45:09.674213 [info ]:  Succeeded [  0.15s] model staging.stg_reviews (view)
+18:45:09.682178 [debug]: Finished analyzing [  0.02s] model marts.mart_daily_city_revenue [success]
+18:45:09.682232 [info ]: Finished analyzing [  0.12s] (16 nodes, 0 skipped, 0 errors)
+18:45:09.682253 [info ]:  Succeeded [  0.16s] model marts.mart_daily_city_revenue (table)
+18:45:09.692306 [info ]: Started scheduling
+18:45:09.692410 [info ]: Finished scheduling [  0.00s]
+18:45:09.692970 [info ]: 
+==================== Execution Summary =====================
+Finished 'compile' successfully for target 'dev' [7.7s]
+Processed: 16 models
+Summary: 16 total | 16 success
+18:45:09.693401 [info ]: Cached model count updated: 16 models (accurate)
+18:45:10.122435 [info ]: Loading profiles.yml
+==================== 2026-09-03T19:29:03.922165Z | 00000000-0000-0000-0000-000000000000 ====================
+==================== 2026-09-03T19:29:03.928418Z | 5bdf0b7f-0ac6-439a-bf6b-37c5d7331006 ====================
+19:29:03.928746 [info ]: Starting dbt LSP server
+19:29:03.929374 [info ]: Connecting to LSP client on port 8000
+19:29:03.933765 [info ]: Successfully connected to LSP client
+19:29:03.933997 [info ]: Creating LSP service...
+19:29:03.958400 [info ]: Creating LSP server...
+19:29:03.958441 [info ]: Starting LSP server...
+19:29:04.028522 [info ]: Loading profiles.yml
+==================== 2026-09-03T19:29:04.152322Z | ce38acb8-709d-4ef4-9818-b82bcaeb4b83 ====================
+19:29:04.153962 [info ]: Started loading project
+19:29:04.161116 [info ]: Loading profiles.yml
+19:29:04.189882 [debug]:    Started loading packages
+19:29:04.211642 [debug]:     Loaded [  0.02s] packages
+19:29:04.221252 [info ]: Finished loading project [  0.07s]
+19:29:04.226229 [info ]: Started parsing
+19:29:04.339511 [debug]: Finished parsing models/staging/_sources.yml [  0.02s]
+19:29:04.355979 [debug]: Finished parsing tests/_marts.yml [  0.02s]
+19:29:04.372592 [debug]: Finished parsing tests/_staging.yml [  0.02s]
+19:29:04.426455 [debug]: Finished parsing models/marts/dim_customer.sql [  0.04s]
+19:29:04.440652 [debug]: Finished parsing models/marts/dim_date.sql [  0.01s]
+19:29:04.453316 [debug]: Finished parsing models/marts/dim_food.sql [  0.01s]
+19:29:04.471246 [debug]: Finished parsing models/marts/dim_restaurants.sql [  0.02s]
+19:29:04.487174 [debug]: Finished parsing models/marts/fact_order_items.sql [  0.02s]
+19:29:04.499612 [debug]: Finished parsing models/marts/fact_orders.sql [  0.01s]
+19:29:04.518000 [debug]: Finished parsing models/marts/mart_daily_city_revenue.sql [  0.02s]
+19:29:04.532094 [debug]: Finished parsing models/marts/mart_delivery_sla.sql [  0.01s]
+19:29:04.546597 [debug]: Finished parsing models/marts/mart_restaurants_performance.sql [  0.01s]
+19:29:04.561257 [debug]: Finished parsing models/staging/stg_food.sql [  0.01s]
+19:29:04.576138 [debug]: Finished parsing models/staging/stg_menu.sql [  0.01s]
+19:29:04.595614 [debug]: Finished parsing models/staging/stg_order_items.sql [  0.02s]
+19:29:04.612703 [debug]: Finished parsing models/staging/stg_orders.sql [  0.02s]
+19:29:04.624832 [debug]: Finished parsing models/staging/stg_restaurants.sql [  0.01s]
+19:29:04.637200 [debug]: Finished parsing models/staging/stg_reviews.sql [  0.01s]
+19:29:04.651160 [debug]: Finished parsing models/staging/stg_users.sql [  0.01s]
+19:29:04.816171 [warn ]: [UnusedResourceConfigPath (dbt1097)]: Configuration paths exist in your dbt_project.yml file which do not apply to any resources.
+There are 1 unused configuration paths:
+- models.snapshots.doordash
+19:29:04.820386 [info ]: Finished parsing [  0.59s]
+19:29:04.824266 [info ]: Cached model count updated: 16 models (estimate)
+19:29:04.824294 [info ]: Cached model count updated: 16 models (accurate)
+19:29:04.825632 [info ]: Started scheduling
+19:29:04.829257 [info ]: Finished scheduling [  0.00s]
+19:29:04.829313 [debug]: Compilation - 0 nodes selected: {}
+19:29:04.830233 [warn ]: [NoNodesForSelectionCriteria (dbt1092)]: The selection criterion '' does not match any enabled nodes
+19:29:04.830277 [warn ]: [NoNodesSelected (dbt1601)]: Nothing to do. Try checking your model configs and model specification args
+19:29:04.830808 [info ]: Started scheduling
+19:29:04.832187 [info ]: Finished scheduling [  0.00s]
+19:29:04.836311 [debug]: Initializing schema store with entry: Frontier(CanonicalFqn { catalog: "DOORDASH", schema: "RAW", table: "REVIEWS" }) and interval: None
+19:29:04.836505 [debug]: Initializing schema store with entry: Frontier(CanonicalFqn { catalog: "DOORDASH", schema: "RAW", table: "USERS" }) and interval: None
+19:29:04.836515 [debug]: Initializing schema store with entry: Frontier(CanonicalFqn { catalog: "DOORDASH", schema: "RAW", table: "FOOD" }) and interval: None
+19:29:04.836521 [debug]: Initializing schema store with entry: Frontier(CanonicalFqn { catalog: "DOORDASH", schema: "RAW", table: "ORDER_ITEMS" }) and interval: None
+19:29:04.836525 [debug]: Initializing schema store with entry: Frontier(CanonicalFqn { catalog: "DOORDASH", schema: "RAW", table: "ORDERS" }) and interval: None
+19:29:04.836528 [debug]: Initializing schema store with entry: Frontier(CanonicalFqn { catalog: "DOORDASH", schema: "RAW", table: "RESTAURANTS" }) and interval: None
+19:29:04.836531 [debug]: Initializing schema store with entry: Frontier(CanonicalFqn { catalog: "DOORDASH", schema: "RAW", table: "MENU" }) and interval: None
+19:29:04.854646 [info ]: Started building task graph
+19:29:04.856508 [info ]: Finished building task graph [  0.00s]
+19:29:04.915151 [info ]: Started scheduling
+19:29:04.915261 [info ]: Finished scheduling [  0.00s]
+19:29:04.917154 [info ]: 
+==================== Execution Summary =====================
+Finished 'compile' with 3 warnings for target 'dev' [764ms]
+19:29:04.918712 [info ]: Cached model count updated: 16 models (accurate)
+==================== 2026-09-03T19:29:06.475208Z | 8b2d5a28-a9ee-4c67-a86e-b49b05a78402 ====================
+19:29:06.475325 [info ]: Started loading project
+19:29:06.476158 [info ]: Loading profiles.yml
+19:29:06.534231 [info ]: Cached model count updated: 16 models (estimate)
+19:29:06.534291 [info ]: Cached model count updated: 16 models (accurate)
+19:29:06.534402 [info ]: Started scheduling
+19:29:06.534752 [info ]: Finished scheduling [  0.00s]
+19:29:06.534790 [debug]: Compilation - 16 nodes selected: {"model.doordash.dim_customer", "model.doordash.dim_date", "model.doordash.dim_food", "model.doordash.dim_restaurants", "model.doordash.fact_order_items", "model.doordash.fact_orders", "model.doordash.mart_daily_city_revenue", "model.doordash.mart_delivery_sla", "model.doordash.mart_restaurants_performance", "model.doordash.stg_food", "model.doordash.stg_menu", "model.doordash.stg_order_items", "model.doordash.stg_orders", "model.doordash.stg_restaurants", "model.doordash.stg_reviews", "model.doordash.stg_users"}
+19:29:06.539061 [debug]:    Started downloading relations (1 items)
+19:29:06.541852 [info ]: Finished loading project [  0.07s]
+19:29:06.543856 [debug]: Snowflake driver resolved: snowflake 0.21.0.dev+dbt0.21.16
+19:29:08.671130 [debug]: create_debug_span(...).entered() took 973.1µs
+19:29:09.246465 [debug]: stmt.execute() (submit+wait_for_completion, returns reader) took 573.583ms
+19:29:09.246732 [debug]: reader.schema() took 221.1µs
+19:29:09.249274 [debug]: batch-consume loop (for res in reader) took 2.5215ms
+19:29:09.250535 [debug]: do_execute(conn) (closure: stmt.execute + schema + batch loop) took 579.3702ms
+19:29:09.252289 [debug]: concat_batches + normalize_result_column_names took 1.7301ms
+19:29:09.252478 [debug]: record_current_span_status_from_attrs took 169.5µs
+19:29:09.252665 [debug]: Query executed on node unknown:
+SHOW OBJECTS IN SCHEMA "DOORDASH"."MARTS" LIMIT 10000
+19:29:09.252695 [debug]: drop(query_span_guard) (span exit/export) took 196.6µs
+19:29:09.673080 [debug]:   Finished [  3.13s] downloading relations (1 items)
+19:29:09.674594 [info ]: Started building task graph
+19:29:09.677965 [info ]: Finished building task graph [  0.00s]
+19:29:09.689942 [info ]: Started rendering (16 nodes)
+19:29:09.691079 [info ]: Started model staging.stg_reviews
+19:29:09.691480 [debug]: Started rendering model staging.stg_reviews
+19:29:09.692178 [info ]: Started model staging.stg_menu
+19:29:09.692200 [debug]: Started rendering model staging.stg_menu
+19:29:09.692264 [info ]: Started model marts.mart_restaurants_performance
+19:29:09.692282 [debug]: Started rendering model marts.mart_restaurants_performance
+19:29:09.692306 [info ]: Started model marts.mart_delivery_sla
+19:29:09.692322 [debug]: Started rendering model marts.mart_delivery_sla
+19:29:09.692335 [info ]: Started model marts.mart_daily_city_revenue
+19:29:09.692360 [debug]: Started rendering model marts.mart_daily_city_revenue
+19:29:09.692377 [info ]: Started model marts.fact_orders
+19:29:09.692385 [debug]: Started rendering model marts.fact_orders
+19:29:09.692408 [info ]: Started model marts.fact_order_items
+19:29:09.692417 [debug]: Started rendering model marts.fact_order_items
+19:29:09.692430 [info ]: Started model staging.stg_orders
+19:29:09.692437 [debug]: Started rendering model staging.stg_orders
+19:29:09.692462 [info ]: Started model staging.stg_order_items
+19:29:09.692498 [debug]: Started rendering model staging.stg_order_items
+19:29:09.692510 [info ]: Started model marts.dim_restaurants
+19:29:09.692518 [debug]: Started rendering model marts.dim_restaurants
+19:29:09.692529 [info ]: Started model staging.stg_restaurants
+19:29:09.692535 [debug]: Started rendering model staging.stg_restaurants
+19:29:09.692547 [info ]: Started model marts.dim_food
+19:29:09.692554 [debug]: Started rendering model marts.dim_food
+19:29:09.692605 [info ]: Started model staging.stg_food
+19:29:09.692614 [debug]: Started rendering model staging.stg_food
+19:29:09.692631 [info ]: Started model marts.dim_date
+19:29:09.692647 [debug]: Started rendering model marts.dim_date
+19:29:09.692661 [info ]: Started model marts.dim_customer
+19:29:09.692676 [debug]: Started rendering model marts.dim_customer
+19:29:09.693014 [info ]: Started model staging.stg_users
+19:29:09.693041 [debug]: Started rendering model staging.stg_users
+19:29:09.729675 [debug]: Compiled SQL for node model.doordash.stg_menu at target\.lsp\compiled\doordash\models\staging\stg_menu.sql
+19:29:09.735533 [debug]: Compiled SQL for node model.doordash.dim_customer at target\.lsp\compiled\doordash\models\marts\dim_customer.sql
+19:29:09.744150 [debug]: Compiled SQL for node model.doordash.stg_users at target\.lsp\compiled\doordash\models\staging\stg_users.sql
+19:29:09.751622 [debug]: Finished rendering [  0.06s] model staging.stg_users [success]
+19:29:09.751969 [debug]: Compiled SQL for node model.doordash.stg_order_items at target\.lsp\compiled\doordash\models\staging\stg_order_items.sql
+19:29:09.752328 [debug]: Compiled SQL for node model.doordash.stg_reviews at target\.lsp\compiled\doordash\models\staging\stg_reviews.sql
+19:29:09.755342 [info ]: Started analyzing (16 nodes)
+19:29:09.755382 [debug]: Started analyzing model staging.stg_users
+19:29:09.755549 [debug]: Finished rendering [  0.06s] model staging.stg_menu [success]
+19:29:09.755583 [debug]: Started analyzing model staging.stg_menu
+19:29:09.755605 [debug]: Finished rendering [  0.06s] model marts.dim_customer [success]
+19:29:09.755621 [debug]: Started analyzing model marts.dim_customer
+19:29:09.755641 [debug]: Finished rendering [  0.06s] model staging.stg_order_items [success]
+19:29:09.755652 [debug]: Started analyzing model staging.stg_order_items
+19:29:09.755670 [debug]: Finished rendering [  0.06s] model staging.stg_reviews [success]
+19:29:09.755681 [debug]: Started analyzing model staging.stg_reviews
+19:29:09.763709 [debug]: Compiled SQL for node model.doordash.stg_food at target\.lsp\compiled\doordash\models\staging\stg_food.sql
+19:29:09.764234 [debug]: Compiled SQL for node model.doordash.stg_restaurants at target\.lsp\compiled\doordash\models\staging\stg_restaurants.sql
+19:29:09.764431 [debug]: Compiled SQL for node model.doordash.stg_orders at target\.lsp\compiled\doordash\models\staging\stg_orders.sql
+19:29:09.764714 [debug]: Finished rendering [  0.07s] model staging.stg_food [success]
+19:29:09.764763 [debug]: Started analyzing model staging.stg_food
+19:29:09.765959 [debug]: Finished rendering [  0.07s] model staging.stg_restaurants [success]
+19:29:09.766566 [debug]: Started analyzing model staging.stg_restaurants
+19:29:09.767767 [debug]: Finished rendering [  0.08s] model staging.stg_orders [success]
+19:29:09.768320 [debug]: Started analyzing model staging.stg_orders
+19:29:09.779219 [debug]: Compiled SQL for node model.doordash.dim_date at target\.lsp\compiled\doordash\models\marts\dim_date.sql
+19:29:09.779858 [debug]: Finished rendering [  0.09s] model marts.dim_date [success]
+19:29:09.779912 [debug]: Started analyzing model marts.dim_date
+19:29:09.780509 [debug]: Compiled SQL for node model.doordash.mart_delivery_sla at target\.lsp\compiled\doordash\models\marts\mart_delivery_sla.sql
+19:29:09.780707 [debug]: Finished rendering [  0.09s] model marts.mart_delivery_sla [success]
+19:29:09.780742 [debug]: Started analyzing model marts.mart_delivery_sla
+19:29:09.782349 [debug]: Compiled SQL for node model.doordash.mart_restaurants_performance at target\.lsp\compiled\doordash\models\marts\mart_restaurants_performance.sql
+19:29:09.782642 [debug]: Compiled SQL for node model.doordash.dim_restaurants at target\.lsp\compiled\doordash\models\marts\dim_restaurants.sql
+19:29:09.782880 [debug]: Compiled SQL for node model.doordash.mart_daily_city_revenue at target\.lsp\compiled\doordash\models\marts\mart_daily_city_revenue.sql
+19:29:09.782987 [debug]: Compiled SQL for node model.doordash.dim_food at target\.lsp\compiled\doordash\models\marts\dim_food.sql
+19:29:09.783781 [debug]: Finished rendering [  0.09s] model marts.mart_restaurants_performance [success]
+19:29:09.783831 [debug]: Started analyzing model marts.mart_restaurants_performance
+19:29:09.784213 [debug]: Finished rendering [  0.09s] model marts.dim_restaurants [success]
+19:29:09.784331 [debug]: Started analyzing model marts.dim_restaurants
+19:29:09.784617 [debug]: Finished rendering [  0.09s] model marts.mart_daily_city_revenue [success]
+19:29:09.784642 [debug]: Started analyzing model marts.mart_daily_city_revenue
+19:29:09.784825 [debug]: Finished rendering [  0.09s] model marts.dim_food [success]
+19:29:09.784846 [debug]: Started analyzing model marts.dim_food
+19:29:09.795712 [debug]: Compiled SQL for node model.doordash.fact_order_items at target\.lsp\compiled\doordash\models\marts\fact_order_items.sql
+19:29:09.796509 [debug]: Compiled SQL for node model.doordash.fact_orders at target\.lsp\compiled\doordash\models\marts\fact_orders.sql
+19:29:09.803570 [debug]: Finished rendering [  0.11s] model marts.fact_order_items [success]
+19:29:09.803648 [debug]: Started analyzing model marts.fact_order_items
+19:29:09.810814 [debug]: Finished rendering [  0.12s] model marts.fact_orders [success]
+19:29:09.810855 [info ]: Finished rendering [  0.12s] (16 nodes, 0 skipped, 0 errors)
+19:29:09.810881 [debug]: Started analyzing model marts.fact_orders
+19:29:09.811865 [debug]: Finished analyzing [  0.06s] model staging.stg_order_items [success]
+19:29:09.811903 [info ]:  Succeeded [  0.12s] model staging.stg_order_items (view)
+19:29:09.811955 [debug]: Finished analyzing [  0.03s] model marts.dim_food [success]
+19:29:09.811971 [info ]:  Succeeded [  0.12s] model marts.dim_food (table)
+19:29:09.812056 [debug]: Finished analyzing [  0.06s] model staging.stg_users [success]
+19:29:09.812074 [info ]:  Succeeded [  0.11s] model staging.stg_users (view)
+19:29:09.812256 [debug]: Finished analyzing [  0.03s] model marts.dim_restaurants [success]
+19:29:09.812273 [info ]:  Succeeded [  0.12s] model marts.dim_restaurants (table)
+19:29:09.812328 [debug]: Finished analyzing [  0.05s] model staging.stg_food [success]
+19:29:09.812341 [info ]:  Succeeded [  0.12s] model staging.stg_food (view)
+19:29:09.815449 [debug]: Finished analyzing [  0.06s] model staging.stg_reviews [success]
+19:29:09.815484 [info ]:  Succeeded [  0.12s] model staging.stg_reviews (view)
+19:29:09.816155 [debug]: Finished analyzing [  0.06s] model marts.dim_customer [success]
+19:29:09.816172 [info ]:  Succeeded [  0.12s] model marts.dim_customer (table)
+19:29:09.821037 [debug]: Finished analyzing [  0.02s] model marts.fact_order_items [success]
+19:29:09.821082 [info ]:  Succeeded [  0.13s] model marts.fact_order_items (incremental)
+19:29:09.821175 [debug]: Finished analyzing [  0.04s] model marts.mart_delivery_sla [success]
+19:29:09.821191 [info ]:  Succeeded [  0.13s] model marts.mart_delivery_sla (table)
+19:29:09.821943 [debug]: Finished analyzing [  0.05s] model staging.stg_orders [success]
+19:29:09.821972 [info ]:  Succeeded [  0.13s] model staging.stg_orders (view)
+19:29:09.822351 [debug]: Finished analyzing [  0.07s] model staging.stg_menu [success]
+19:29:09.822377 [info ]:  Succeeded [  0.13s] model staging.stg_menu (view)
+19:29:09.822574 [debug]: Finished analyzing [  0.01s] model marts.fact_orders [success]
+19:29:09.822595 [info ]:  Succeeded [  0.13s] model marts.fact_orders (incremental)
+19:29:09.822934 [debug]: Finished analyzing [  0.04s] model marts.dim_date [success]
+19:29:09.822957 [info ]:  Succeeded [  0.13s] model marts.dim_date (table)
+19:29:09.824767 [debug]: Finished analyzing [  0.06s] model staging.stg_restaurants [success]
+19:29:09.824807 [info ]:  Succeeded [  0.13s] model staging.stg_restaurants (view)
+19:29:09.825642 [debug]: Finished analyzing [  0.04s] model marts.mart_restaurants_performance [success]
+19:29:09.825673 [info ]:  Succeeded [  0.13s] model marts.mart_restaurants_performance (table)
+19:29:09.833544 [debug]: Finished analyzing [  0.05s] model marts.mart_daily_city_revenue [success]
+19:29:09.833590 [info ]: Finished analyzing [  0.08s] (16 nodes, 0 skipped, 0 errors)
+19:29:09.833606 [info ]:  Succeeded [  0.14s] model marts.mart_daily_city_revenue (table)
+19:29:09.842734 [info ]: Started scheduling
+19:29:09.842877 [info ]: Finished scheduling [  0.00s]
+19:29:09.844030 [info ]: 
+==================== Execution Summary =====================
+Finished 'compile' successfully for target 'dev' [3.4s]
+Processed: 16 models
+Summary: 16 total | 16 success
+19:29:09.844370 [info ]: Cached model count updated: 16 models (accurate)
+==================== 2026-09-05T21:15:14.449341Z | 621b9749-af07-4b4c-99b1-cfcfa7b085f8 ====================
+21:15:14.459176 [info ]: Started loading project
+21:15:14.494288 [info ]: Loading profiles.yml
+==================== 2026-09-05T21:15:14.702456Z | f93e161f-0a64-43b5-9f98-ad097f86376e ====================
+21:15:14.702593 [info ]: Started loading project
+21:15:14.703864 [info ]: Loading profiles.yml
+21:15:14.704950 [info ]: Finished loading project [  0.25s]
+21:15:14.742177 [debug]:    Started loading packages
+21:15:14.766474 [debug]:     Loaded [  0.02s] packages
+21:15:14.769853 [info ]: Finished loading project [  0.07s]
+21:15:14.774201 [info ]: Started parsing
+21:15:14.937663 [debug]: Finished parsing models/staging/_sources.yml [  0.03s]
+21:15:14.958780 [debug]: Finished parsing tests/_marts.yml [  0.02s]
+21:15:14.974016 [debug]: Finished parsing tests/_staging.yml [  0.02s]
+21:15:15.016964 [debug]: Finished parsing models/marts/dim_customer.sql [  0.03s]
+21:15:15.033009 [debug]: Finished parsing models/marts/dim_date.sql [  0.02s]
+21:15:15.046620 [debug]: Finished parsing models/marts/dim_food.sql [  0.01s]
+21:15:15.065481 [debug]: Finished parsing models/marts/dim_restaurants.sql [  0.02s]
+21:15:15.075652 [debug]: Finished parsing models/marts/fact_order_items.sql [  0.01s]
+21:15:15.093936 [debug]: Finished parsing models/marts/fact_orders.sql [  0.02s]
+21:15:15.110685 [debug]: Finished parsing models/marts/mart_daily_city_revenue.sql [  0.02s]
+21:15:15.128618 [debug]: Finished parsing models/marts/mart_delivery_sla.sql [  0.02s]
+21:15:15.148152 [debug]: Finished parsing models/marts/mart_restaurants_performance.sql [  0.02s]
+21:15:15.148987 [debug]: Finished parsing models/marts/mart_review_insights.sql [  0.00s]
+21:15:15.163403 [debug]: Finished parsing models/staging/stg_food.sql [  0.01s]
+21:15:15.178144 [debug]: Finished parsing models/staging/stg_menu.sql [  0.01s]
+21:15:15.196532 [debug]: Finished parsing models/staging/stg_order_items.sql [  0.02s]
+21:15:15.212859 [debug]: Finished parsing models/staging/stg_orders.sql [  0.02s]
+21:15:15.230201 [debug]: Finished parsing models/staging/stg_restaurants.sql [  0.02s]
+21:15:15.273771 [debug]: Finished parsing models/staging/stg_reviews.sql [  0.04s]
+21:15:15.289312 [debug]: Finished parsing models/staging/stg_users.sql [  0.02s]
+21:15:15.492585 [warn ]: [UnusedResourceConfigPath (dbt1097)]: Configuration paths exist in your dbt_project.yml file which do not apply to any resources.
+There are 1 unused configuration paths:
+- models.snapshots.doordash
+21:15:15.497027 [info ]: Finished parsing [  0.72s]
+21:15:15.502657 [info ]: Cached model count updated: 17 models (estimate)
+21:15:15.502699 [info ]: Cached model count updated: 17 models (accurate)
+21:15:15.504577 [info ]: Started scheduling
+21:15:15.508601 [info ]: Finished scheduling [  0.00s]
+21:15:15.508912 [debug]: Compilation - 0 nodes selected: {}
+21:15:15.509694 [warn ]: [NoNodesForSelectionCriteria (dbt1092)]: The selection criterion '' does not match any enabled nodes
+21:15:15.509723 [warn ]: [NoNodesSelected (dbt1601)]: Nothing to do. Try checking your model configs and model specification args
+21:15:15.509893 [info ]: Started scheduling
+21:15:15.511079 [info ]: Finished scheduling [  0.00s]
+21:15:15.513833 [debug]: Initializing schema store with entry: Frontier(CanonicalFqn { catalog: "DOORDASH", schema: "RAW", table: "FOOD" }) and interval: None
+21:15:15.513852 [debug]: Initializing schema store with entry: Frontier(CanonicalFqn { catalog: "DOORDASH", schema: "RAW", table: "MENU" }) and interval: None
+21:15:15.513857 [debug]: Initializing schema store with entry: Frontier(CanonicalFqn { catalog: "DOORDASH", schema: "RAW", table: "ORDERS" }) and interval: None
+21:15:15.513861 [debug]: Initializing schema store with entry: Frontier(CanonicalFqn { catalog: "DOORDASH", schema: "RAW", table: "RESTAURANTS" }) and interval: None
+21:15:15.513866 [debug]: Initializing schema store with entry: Frontier(CanonicalFqn { catalog: "DOORDASH", schema: "RAW", table: "USERS" }) and interval: None
+21:15:15.513870 [debug]: Initializing schema store with entry: Frontier(CanonicalFqn { catalog: "DOORDASH", schema: "RAW", table: "ORDER_ITEMS" }) and interval: None
+21:15:15.513874 [debug]: Initializing schema store with entry: Frontier(CanonicalFqn { catalog: "DOORDASH", schema: "RAW", table: "REVIEWS" }) and interval: None
+21:15:15.528926 [info ]: Started building task graph
+21:15:15.530843 [info ]: Finished building task graph [  0.00s]
+21:15:15.581719 [info ]: Started scheduling
+21:15:15.581841 [info ]: Finished scheduling [  0.00s]
+21:15:15.582468 [info ]: 
+==================== Execution Summary =====================
+Finished 'compile' with 3 warnings for target 'dev' [880ms]
+21:15:15.583063 [info ]: 
+==================== Execution Summary =====================
+Finished 'compile' successfully for target 'dev' [1.1s]
+21:15:15.598683 [info ]: Cached model count updated: 17 models (accurate)
+==================== 2026-09-05T21:15:17.182220Z | ef0da066-98ef-4624-acfc-12ae344a3fbb ====================
+21:15:17.182331 [info ]: Started loading project
+21:15:17.183212 [info ]: Loading profiles.yml
+21:15:17.246666 [info ]: Cached model count updated: 17 models (estimate)
+21:15:17.246705 [info ]: Cached model count updated: 17 models (accurate)
+21:15:17.246760 [info ]: Started scheduling
+21:15:17.246963 [info ]: Finished scheduling [  0.00s]
+21:15:17.246985 [debug]: Compilation - 16 nodes selected: {"model.doordash.dim_customer", "model.doordash.dim_date", "model.doordash.dim_food", "model.doordash.dim_restaurants", "model.doordash.fact_order_items", "model.doordash.fact_orders", "model.doordash.mart_daily_city_revenue", "model.doordash.mart_delivery_sla", "model.doordash.mart_restaurants_performance", "model.doordash.stg_food", "model.doordash.stg_menu", "model.doordash.stg_order_items", "model.doordash.stg_orders", "model.doordash.stg_restaurants", "model.doordash.stg_reviews", "model.doordash.stg_users"}
+21:15:17.252573 [debug]:    Started downloading relations (1 items)
+21:15:17.254703 [info ]: Finished loading project [  0.07s]
+21:15:17.257146 [debug]: create_debug_span(...).entered() took 262.6µs
+21:15:20.322124 [debug]: Query executed on node unknown:
+SHOW OBJECTS IN SCHEMA "DOORDASH"."MARTS" LIMIT 10000
+21:15:20.487612 [debug]:     Failed [  3.24s] downloading relations (error: Adapter operation was cancelled)
+21:15:20.495354 [info ]: 
+==================== Execution Summary =====================
+Finished 'compile' successfully for target 'dev' [3.3s]
+21:15:20.495477 [info ]: Cached model count updated: 17 models (accurate)
+==================== 2026-09-05T21:15:20.576715Z | 731fd5ed-3179-4fe3-8359-483077af7994 ====================
+21:15:20.576828 [info ]: Started loading project
+21:15:20.578564 [info ]: Loading profiles.yml
+21:15:20.629172 [info ]: Started parsing
+21:15:20.693211 [info ]: Finished loading project [  0.12s]
+21:15:20.698118 [debug]: Finished parsing models/marts/mart_review_insights.sql [  0.00s]
+21:15:20.880952 [error]: [DependencyNotFound (dbt1048)]: Source 'ai.review_enriched' not found in project. Searched for 'review_enriched'
+  --> models/marts/mart_review_insights.sql:11:6
+21:15:20.882053 [warn ]: [UnusedResourceConfigPath (dbt1097)]: Configuration paths exist in your dbt_project.yml file which do not apply to any resources.
+There are 1 unused configuration paths:
+- models.snapshots.doordash
+21:15:20.885077 [info ]: Finished parsing [  0.26s]
+21:15:20.890636 [info ]: Cached model count updated: 17 models (estimate)
+21:15:20.890666 [info ]: Cached model count updated: 17 models (accurate)
+21:15:20.890725 [info ]: Started scheduling
+21:15:20.891865 [info ]: Finished scheduling [  0.00s]
+21:15:20.891906 [debug]: Compilation - 3 nodes selected: {"model.doordash.mart_review_insights", "model.doordash.stg_restaurants", "model.doordash.stg_reviews"}
+21:15:20.894479 [info ]: Started building task graph
+21:15:20.896107 [info ]: Finished building task graph [  0.00s]
+21:15:20.906325 [info ]: Started rendering (3 nodes)
+21:15:20.907366 [info ]: Started model marts.mart_review_insights
+21:15:20.907602 [debug]: Started rendering model marts.mart_review_insights
+21:15:20.908342 [info ]: Started model staging.stg_reviews
+21:15:20.908360 [debug]: Started rendering model staging.stg_reviews
+21:15:20.908377 [info ]: Started model staging.stg_restaurants
+21:15:20.908386 [debug]: Started rendering model staging.stg_restaurants
+21:15:20.916495 [error]: [JinjaError (dbt1501)]: Failed to render SQL not a key type: Source not found for source name: ai, table name: review_enriched
+(in models/marts/mart_review_insights.sql:11:6)
+  --> models/marts/mart_review_insights.sql:11:6
+21:15:20.917056 [debug]: Finished rendering [  0.01s] model marts.mart_review_insights [error]
+21:15:20.917759 [info ]: Started analyzing (3 nodes)
+21:15:20.917789 [debug]: Started analyzing model marts.mart_review_insights
+21:15:20.918405 [debug]: Finished analyzing [  0.00s] model marts.mart_review_insights [skipped]
+21:15:20.918451 [info ]:     Failed [  0.01s] model marts.mart_review_insights (table)
+21:15:20.920007 [debug]: Compiled SQL for node model.doordash.stg_restaurants at target\.lsp\compiled\doordash\models\staging\stg_restaurants.sql
+21:15:20.920130 [debug]: Compiled SQL for node model.doordash.stg_reviews at target\.lsp\compiled\doordash\models\staging\stg_reviews.sql
+21:15:20.920600 [debug]: Finished rendering [  0.01s] model staging.stg_reviews [success]
+21:15:20.920651 [debug]: Started analyzing model staging.stg_reviews
+21:15:20.920737 [debug]: Finished rendering [  0.01s] model staging.stg_restaurants [success]
+21:15:20.920763 [info ]: Finished rendering [  0.01s] (3 nodes, 0 skipped, 1 errors)
+21:15:20.920784 [debug]: Started analyzing model staging.stg_restaurants
+21:15:20.952024 [debug]: Finished analyzing [  0.03s] model staging.stg_reviews [success]
+21:15:20.952083 [info ]:  Succeeded [  0.04s] model staging.stg_reviews (view)
+21:15:20.952130 [debug]: Finished analyzing [  0.03s] model staging.stg_restaurants [success]
+21:15:20.952140 [info ]: Finished analyzing [  0.03s] (3 nodes, 1 skipped, 0 errors)
+21:15:20.952152 [info ]:  Succeeded [  0.04s] model staging.stg_restaurants (view)
+21:15:20.960810 [info ]: Started scheduling
+21:15:20.961035 [info ]: Finished scheduling [  0.00s]
+21:15:20.962635 [info ]: 
+==================== Execution Summary =====================
+Finished 'compile' with 1 warning and 2 errors for target 'dev' [385ms]
+Processed: 3 models
+Summary: 3 total | 2 success | 1 error
+21:15:20.962752 [info ]: Cached model count updated: 17 models (accurate)
+==================== 2026-09-05T21:15:22.563429Z | 3cb75123-9196-4537-bef6-75b9f95f287a ====================
+21:15:22.563592 [info ]: Started loading project
+21:15:22.564723 [info ]: Loading profiles.yml
+21:15:22.614282 [info ]: Cached model count updated: 17 models (estimate)
+21:15:22.614331 [info ]: Cached model count updated: 17 models (accurate)
+21:15:22.614411 [info ]: Started scheduling
+21:15:22.614705 [info ]: Finished scheduling [  0.00s]
+21:15:22.614743 [debug]: Compilation - 17 nodes selected: {"model.doordash.dim_customer", "model.doordash.dim_date", "model.doordash.dim_food", "model.doordash.dim_restaurants", "model.doordash.fact_order_items", "model.doordash.fact_orders", "model.doordash.mart_daily_city_revenue", "model.doordash.mart_delivery_sla", "model.doordash.mart_restaurants_performance", "model.doordash.mart_review_insights", "model.doordash.stg_food", "model.doordash.stg_menu", "model.doordash.stg_order_items", "model.doordash.stg_orders", "model.doordash.stg_restaurants", "model.doordash.stg_reviews", "model.doordash.stg_users"}
+21:15:22.617491 [debug]:    Started downloading relations (1 items)
+21:15:22.617612 [info ]: Finished loading project [  0.05s]
+21:15:24.167090 [debug]: create_debug_span(...).entered() took 35.6µs
+21:15:24.671372 [debug]: Query executed on node unknown:
+SHOW OBJECTS IN SCHEMA "DOORDASH"."MARTS" LIMIT 10000
+21:15:25.216516 [debug]:   Finished [  2.60s] downloading relations (1 items)
+21:15:25.218819 [info ]: Started building task graph
+21:15:25.219280 [info ]: Finished building task graph [  0.00s]
+21:15:25.227365 [info ]: Started rendering (17 nodes)
+21:15:25.227426 [info ]: Started model staging.stg_menu
+21:15:25.227444 [debug]: Started rendering model staging.stg_menu
+21:15:25.227491 [info ]: Started model marts.mart_review_insights
+21:15:25.227507 [debug]: Started rendering model marts.mart_review_insights
+21:15:25.227523 [info ]: Started model staging.stg_reviews
+21:15:25.227530 [debug]: Started rendering model staging.stg_reviews
+21:15:25.227547 [info ]: Started model marts.mart_restaurants_performance
+21:15:25.227564 [debug]: Started rendering model marts.mart_restaurants_performance
+21:15:25.227592 [info ]: Started model marts.mart_delivery_sla
+21:15:25.227604 [debug]: Started rendering model marts.mart_delivery_sla
+21:15:25.227623 [info ]: Started model marts.mart_daily_city_revenue
+21:15:25.227639 [debug]: Started rendering model marts.mart_daily_city_revenue
+21:15:25.227664 [info ]: Started model marts.fact_orders
+21:15:25.227679 [debug]: Started rendering model marts.fact_orders
+21:15:25.227698 [info ]: Started model marts.fact_order_items
+21:15:25.227714 [debug]: Started rendering model marts.fact_order_items
+21:15:25.227738 [info ]: Started model staging.stg_orders
+21:15:25.227757 [debug]: Started rendering model staging.stg_orders
+21:15:25.227776 [info ]: Started model staging.stg_order_items
+21:15:25.227790 [debug]: Started rendering model staging.stg_order_items
+21:15:25.227835 [info ]: Started model marts.dim_restaurants
+21:15:25.227875 [debug]: Started rendering model marts.dim_restaurants
+21:15:25.227921 [info ]: Started model staging.stg_restaurants
+21:15:25.227933 [debug]: Started rendering model staging.stg_restaurants
+21:15:25.227957 [info ]: Started model marts.dim_food
+21:15:25.227970 [debug]: Started rendering model marts.dim_food
+21:15:25.227988 [info ]: Started model staging.stg_food
+21:15:25.228001 [debug]: Started rendering model staging.stg_food
+21:15:25.228022 [info ]: Started model marts.dim_date
+21:15:25.228404 [debug]: Started rendering model marts.dim_date
+21:15:25.228456 [info ]: Started model marts.dim_customer
+21:15:25.228472 [debug]: Started rendering model marts.dim_customer
+21:15:25.228494 [info ]: Started model staging.stg_users
+21:15:25.228505 [debug]: Started rendering model staging.stg_users
+21:15:25.229971 [debug]: Compiled SQL for node model.doordash.stg_reviews at target\.lsp\compiled\doordash\models\staging\stg_reviews.sql
+21:15:25.230495 [error]: [JinjaError (dbt1501)]: Failed to render SQL not a key type: Source not found for source name: ai, table name: review_enriched
+(in models/marts/mart_review_insights.sql:11:6)
+  --> models/marts/mart_review_insights.sql:11:6
+21:15:25.230638 [debug]: Compiled SQL for node model.doordash.stg_restaurants at target\.lsp\compiled\doordash\models\staging\stg_restaurants.sql
+21:15:25.230651 [debug]: Finished rendering [  0.00s] model marts.mart_review_insights [error]
+21:15:25.230726 [info ]: Started analyzing (17 nodes)
+21:15:25.230748 [debug]: Started analyzing model marts.mart_review_insights
+21:15:25.230775 [debug]: Finished analyzing [  0.00s] model marts.mart_review_insights [skipped]
+21:15:25.230792 [info ]:     Failed [  0.00s] model marts.mart_review_insights (table)
+21:15:25.230833 [debug]: Finished rendering [  0.00s] model staging.stg_reviews [success]
+21:15:25.230852 [debug]: Started analyzing model staging.stg_reviews
+21:15:25.230884 [debug]: Finished rendering [  0.00s] model staging.stg_restaurants [success]
+21:15:25.230909 [debug]: Started analyzing model staging.stg_restaurants
+21:15:25.233191 [debug]: Compiled SQL for node model.doordash.stg_orders at target\.lsp\compiled\doordash\models\staging\stg_orders.sql
+21:15:25.233702 [debug]: Finished rendering [  0.01s] model staging.stg_orders [success]
+21:15:25.233782 [debug]: Started analyzing model staging.stg_orders
+21:15:25.234484 [debug]: Finished analyzing [  0.00s] model staging.stg_reviews [success]
+21:15:25.234545 [info ]:  Succeeded [  0.01s] model staging.stg_reviews (view)
+21:15:25.235215 [debug]: Compiled SQL for node model.doordash.mart_restaurants_performance at target\.lsp\compiled\doordash\models\marts\mart_restaurants_performance.sql
+21:15:25.235604 [debug]: Finished rendering [  0.01s] model marts.mart_restaurants_performance [success]
+21:15:25.235675 [debug]: Started analyzing model marts.mart_restaurants_performance
+21:15:25.237379 [debug]: Finished analyzing [  0.01s] model staging.stg_restaurants [success]
+21:15:25.237433 [info ]:  Succeeded [  0.01s] model staging.stg_restaurants (view)
+21:15:25.238754 [debug]: Finished analyzing [  0.00s] model staging.stg_orders [success]
+21:15:25.238812 [info ]:  Succeeded [  0.01s] model staging.stg_orders (view)
+21:15:25.239245 [debug]: Finished analyzing [  0.00s] model marts.mart_restaurants_performance [success]
+21:15:25.239283 [info ]:  Succeeded [  0.01s] model marts.mart_restaurants_performance (table)
+21:15:25.239640 [debug]: Compiled SQL for node model.doordash.stg_menu at target\.lsp\compiled\doordash\models\staging\stg_menu.sql
+21:15:25.239978 [debug]: Finished rendering [  0.01s] model staging.stg_menu [success]
+21:15:25.240031 [debug]: Started analyzing model staging.stg_menu
+21:15:25.241010 [debug]: Finished analyzing [  0.00s] model staging.stg_menu [success]
+21:15:25.241048 [info ]:  Succeeded [  0.01s] model staging.stg_menu (view)
+21:15:25.242067 [debug]: Compiled SQL for node model.doordash.mart_delivery_sla at target\.lsp\compiled\doordash\models\marts\mart_delivery_sla.sql
+21:15:25.242419 [debug]: Finished rendering [  0.01s] model marts.mart_delivery_sla [success]
+21:15:25.242497 [debug]: Started analyzing model marts.mart_delivery_sla
+21:15:25.244131 [debug]: Finished analyzing [  0.00s] model marts.mart_delivery_sla [success]
+21:15:25.244185 [info ]:  Succeeded [  0.01s] model marts.mart_delivery_sla (table)
+21:15:25.244245 [debug]: Compiled SQL for node model.doordash.stg_users at target\.lsp\compiled\doordash\models\staging\stg_users.sql
+21:15:25.244842 [debug]: Finished rendering [  0.02s] model staging.stg_users [success]
+21:15:25.245019 [debug]: Started analyzing model staging.stg_users
+21:15:25.245162 [debug]: Compiled SQL for node model.doordash.stg_order_items at target\.lsp\compiled\doordash\models\staging\stg_order_items.sql
+21:15:25.245277 [debug]: Compiled SQL for node model.doordash.stg_food at target\.lsp\compiled\doordash\models\staging\stg_food.sql
+21:15:25.245691 [debug]: Finished rendering [  0.02s] model staging.stg_order_items [success]
+21:15:25.245748 [debug]: Started analyzing model staging.stg_order_items
+21:15:25.245798 [debug]: Finished rendering [  0.02s] model staging.stg_food [success]
+21:15:25.245826 [debug]: Started analyzing model staging.stg_food
+21:15:25.245860 [debug]: Finished analyzing [  0.00s] model staging.stg_users [success]
+21:15:25.245882 [info ]:  Succeeded [  0.02s] model staging.stg_users (view)
+21:15:25.246259 [debug]: Finished analyzing [  0.00s] model staging.stg_order_items [success]
+21:15:25.246296 [info ]:  Succeeded [  0.02s] model staging.stg_order_items (view)
+21:15:25.246327 [debug]: Finished analyzing [  0.00s] model staging.stg_food [success]
+21:15:25.246351 [info ]:  Succeeded [  0.02s] model staging.stg_food (view)
+21:15:25.257056 [debug]: Compiled SQL for node model.doordash.dim_food at target\.lsp\compiled\doordash\models\marts\dim_food.sql
+21:15:25.258239 [debug]: Finished rendering [  0.03s] model marts.dim_food [success]
+21:15:25.258502 [debug]: Started analyzing model marts.dim_food
+21:15:25.259910 [debug]: Finished analyzing [  0.00s] model marts.dim_food [success]
+21:15:25.259951 [info ]:  Succeeded [  0.03s] model marts.dim_food (table)
+21:15:25.261081 [debug]: Compiled SQL for node model.doordash.dim_customer at target\.lsp\compiled\doordash\models\marts\dim_customer.sql
+21:15:25.261920 [debug]: Finished rendering [  0.03s] model marts.dim_customer [success]
+21:15:25.262268 [debug]: Started analyzing model marts.dim_customer
+21:15:25.263739 [debug]: Compiled SQL for node model.doordash.dim_date at target\.lsp\compiled\doordash\models\marts\dim_date.sql
+21:15:25.264036 [debug]: Finished analyzing [  0.00s] model marts.dim_customer [success]
+21:15:25.264078 [info ]:  Succeeded [  0.03s] model marts.dim_customer (table)
+21:15:25.264171 [debug]: Finished rendering [  0.04s] model marts.dim_date [success]
+21:15:25.264200 [debug]: Started analyzing model marts.dim_date
+21:15:25.264903 [debug]: Compiled SQL for node model.doordash.dim_restaurants at target\.lsp\compiled\doordash\models\marts\dim_restaurants.sql
+21:15:25.268290 [debug]: Compiled SQL for node model.doordash.mart_daily_city_revenue at target\.lsp\compiled\doordash\models\marts\mart_daily_city_revenue.sql
+21:15:25.274015 [debug]: Finished rendering [  0.05s] model marts.dim_restaurants [success]
+21:15:25.275357 [debug]: Started analyzing model marts.dim_restaurants
+21:15:25.276215 [debug]: Finished analyzing [  0.00s] model marts.dim_restaurants [success]
+21:15:25.276278 [info ]:  Succeeded [  0.05s] model marts.dim_restaurants (table)
+21:15:25.276392 [debug]: Finished rendering [  0.05s] model marts.mart_daily_city_revenue [success]
+21:15:25.276431 [debug]: Started analyzing model marts.mart_daily_city_revenue
+21:15:25.279144 [debug]: Finished analyzing [  0.00s] model marts.mart_daily_city_revenue [success]
+21:15:25.279208 [info ]:  Succeeded [  0.05s] model marts.mart_daily_city_revenue (table)
+21:15:25.284908 [debug]: Finished analyzing [  0.02s] model marts.dim_date [success]
+21:15:25.284996 [info ]:  Succeeded [  0.06s] model marts.dim_date (table)
+21:15:25.298153 [debug]: Compiled SQL for node model.doordash.fact_order_items at target\.lsp\compiled\doordash\models\marts\fact_order_items.sql
+21:15:25.298076 [debug]: Compiled SQL for node model.doordash.fact_orders at target\.lsp\compiled\doordash\models\marts\fact_orders.sql
+21:15:25.299149 [debug]: Finished rendering [  0.07s] model marts.fact_order_items [success]
+21:15:25.299239 [debug]: Started analyzing model marts.fact_order_items
+21:15:25.299369 [debug]: Finished rendering [  0.07s] model marts.fact_orders [success]
+21:15:25.299396 [info ]: Finished rendering [  0.07s] (17 nodes, 0 skipped, 1 errors)
+21:15:25.299418 [debug]: Started analyzing model marts.fact_orders
+21:15:25.300649 [debug]: Finished analyzing [  0.00s] model marts.fact_orders [success]
+21:15:25.300702 [info ]:  Succeeded [  0.07s] model marts.fact_orders (incremental)
+21:15:25.303165 [debug]: Finished analyzing [  0.00s] model marts.fact_order_items [success]
+21:15:25.303225 [info ]: Finished analyzing [  0.07s] (17 nodes, 1 skipped, 0 errors)
+21:15:25.303254 [info ]:  Succeeded [  0.07s] model marts.fact_order_items (incremental)
+21:15:25.317230 [info ]: Started scheduling
+21:15:25.317442 [info ]: Finished scheduling [  0.00s]
+21:15:25.317715 [info ]: 
+==================== Execution Summary =====================
+Finished 'compile' with 1 error for target 'dev' [2.8s]
+Processed: 17 models
+Summary: 17 total | 16 success | 1 error
+21:15:25.318031 [info ]: Cached model count updated: 17 models (accurate)
+==================== 2026-09-06T14:41:18.980621Z | 8fe6d12c-331d-43a1-87fe-899c690dd5a8 ====================
+14:41:18.991236 [info ]: Started loading project
+14:41:19.027228 [info ]: Loading profiles.yml
+==================== 2026-09-06T14:41:19.193204Z | 65321d9e-b625-4c67-a6b0-0178d535b5c1 ====================
+14:41:19.193277 [info ]: Started loading project
+14:41:19.194245 [info ]: Loading profiles.yml
+14:41:19.194570 [info ]: Finished loading project [  0.20s]
+14:41:19.218213 [debug]:    Started loading packages
+14:41:19.232363 [debug]:     Loaded [  0.01s] packages
+14:41:19.233944 [info ]: Finished loading project [  0.04s]
+14:41:19.239301 [info ]: Started parsing
+14:41:19.373220 [debug]: Finished parsing models/staging/_sources.yml [  0.03s]
+14:41:19.373464 [debug]: Finished parsing models/staging/ai_sources.yml [  0.00s]
+14:41:19.389663 [debug]: Finished parsing tests/_marts.yml [  0.02s]
+14:41:19.408909 [debug]: Finished parsing tests/_staging.yml [  0.02s]
+14:41:19.441719 [debug]: Finished parsing models/marts/dim_customer.sql [  0.02s]
+14:41:19.445243 [debug]: Finished parsing models/marts/dim_date.sql [  0.00s]
+14:41:19.448106 [debug]: Finished parsing models/marts/dim_food.sql [  0.00s]
+14:41:19.450782 [debug]: Finished parsing models/marts/dim_restaurants.sql [  0.00s]
+14:41:19.459004 [debug]: Finished parsing models/marts/fact_order_items.sql [  0.01s]
+14:41:19.477217 [debug]: Finished parsing models/marts/fact_orders.sql [  0.02s]
+14:41:19.496595 [debug]: Finished parsing models/marts/mart_daily_city_revenue.sql [  0.02s]
+14:41:19.499090 [debug]: Finished parsing models/marts/mart_delivery_sla.sql [  0.00s]
+14:41:19.521875 [debug]: Finished parsing models/marts/mart_restaurants_performance.sql [  0.02s]
+14:41:19.547843 [debug]: Finished parsing models/marts/mart_review_insights.sql [  0.03s]
+14:41:19.550222 [debug]: Finished parsing models/staging/stg_food.sql [  0.00s]
+14:41:19.563717 [debug]: Finished parsing models/staging/stg_menu.sql [  0.01s]
+14:41:19.566297 [debug]: Finished parsing models/staging/stg_order_items.sql [  0.00s]
+14:41:19.570579 [debug]: Finished parsing models/staging/stg_orders.sql [  0.00s]
+14:41:19.588640 [debug]: Finished parsing models/staging/stg_restaurants.sql [  0.02s]
+14:41:19.591859 [debug]: Finished parsing models/staging/stg_reviews.sql [  0.00s]
+14:41:19.608135 [debug]: Finished parsing models/staging/stg_users.sql [  0.02s]
+14:41:19.778898 [error]: [DependencyNotFound (dbt1048)]: Source 'ai.review_enriched' not found in project. Searched for 'review_enriched'
+  --> models/marts/mart_review_insights.sql:11:6
+14:41:19.780813 [warn ]: [UnusedResourceConfigPath (dbt1097)]: Configuration paths exist in your dbt_project.yml file which do not apply to any resources.
+There are 1 unused configuration paths:
+- models.snapshots.doordash
+14:41:19.787496 [info ]: Finished parsing [  0.55s]
+14:41:19.792514 [info ]: Cached model count updated: 17 models (estimate)
+14:41:19.792546 [info ]: Cached model count updated: 17 models (accurate)
+14:41:19.794018 [info ]: Started scheduling
+14:41:19.797633 [info ]: Finished scheduling [  0.00s]
+14:41:19.797668 [debug]: Compilation - 0 nodes selected: {}
+14:41:19.798474 [warn ]: [NoNodesForSelectionCriteria (dbt1092)]: The selection criterion '' does not match any enabled nodes
+14:41:19.798520 [warn ]: [NoNodesSelected (dbt1601)]: Nothing to do. Try checking your model configs and model specification args
+14:41:19.798702 [info ]: Started scheduling
+14:41:19.799637 [info ]: Finished scheduling [  0.00s]
+14:41:19.804455 [debug]: Initializing schema store with entry: Frontier(CanonicalFqn { catalog: "DOORDASH", schema: "RAW", table: "USERS" }) and interval: None
+14:41:19.804841 [debug]: Initializing schema store with entry: Frontier(CanonicalFqn { catalog: "DOORDASH", schema: "RAW", table: "ORDER_ITEMS" }) and interval: None
+14:41:19.804851 [debug]: Initializing schema store with entry: Frontier(CanonicalFqn { catalog: "DOORDASH", schema: "RAW", table: "MENU" }) and interval: None
+14:41:19.804855 [debug]: Initializing schema store with entry: Frontier(CanonicalFqn { catalog: "DOORDASH", schema: "RAW", table: "ORDERS" }) and interval: None
+14:41:19.804858 [debug]: Initializing schema store with entry: Frontier(CanonicalFqn { catalog: "DOORDASH", schema: "RAW", table: "RESTAURANTS" }) and interval: None
+14:41:19.804862 [debug]: Initializing schema store with entry: Frontier(CanonicalFqn { catalog: "DOORDASH", schema: "RAW", table: "REVIEWS" }) and interval: None
+14:41:19.804885 [debug]: Initializing schema store with entry: Frontier(CanonicalFqn { catalog: "DOORDASH", schema: "RAW", table: "FOOD" }) and interval: None
+14:41:19.821646 [info ]: Started building task graph
+14:41:19.823669 [info ]: Finished building task graph [  0.00s]
+14:41:19.876156 [info ]: Started scheduling
+14:41:19.876242 [info ]: Finished scheduling [  0.00s]
+14:41:19.876723 [info ]: 
+==================== Execution Summary =====================
+Finished 'compile' with 3 warnings and 1 error for target 'dev' [683ms]
+14:41:19.877096 [info ]: 
+==================== Execution Summary =====================
+Finished 'compile' successfully for target 'dev' [896ms]
+14:41:19.889386 [info ]: Cached model count updated: 17 models (accurate)
+==================== 2026-09-06T14:41:21.458478Z | 35b64d6f-f6ac-4696-bd34-c8279023b2df ====================
+14:41:21.458610 [info ]: Started loading project
+14:41:21.459547 [info ]: Loading profiles.yml
+14:41:21.507364 [info ]: Cached model count updated: 17 models (estimate)
+14:41:21.507396 [info ]: Cached model count updated: 17 models (accurate)
+14:41:21.507458 [info ]: Started scheduling
+14:41:21.507637 [info ]: Finished scheduling [  0.00s]
+14:41:21.507658 [debug]: Compilation - 17 nodes selected: {"model.doordash.dim_customer", "model.doordash.dim_date", "model.doordash.dim_food", "model.doordash.dim_restaurants", "model.doordash.fact_order_items", "model.doordash.fact_orders", "model.doordash.mart_daily_city_revenue", "model.doordash.mart_delivery_sla", "model.doordash.mart_restaurants_performance", "model.doordash.mart_review_insights", "model.doordash.stg_food", "model.doordash.stg_menu", "model.doordash.stg_order_items", "model.doordash.stg_orders", "model.doordash.stg_restaurants", "model.doordash.stg_reviews", "model.doordash.stg_users"}
+14:41:21.513672 [debug]:    Started downloading relations (1 items)
+14:41:21.516040 [info ]: Finished loading project [  0.06s]
+14:41:21.519446 [debug]: create_debug_span(...).entered() took 204.8µs
+14:41:22.094344 [debug]: Query executed on node unknown:
+SHOW OBJECTS IN SCHEMA "DOORDASH"."MARTS" LIMIT 10000
+14:41:22.097348 [debug]:     Failed [  0.58s] downloading relations (error: [Snowflake] 390114: Authentication token has expired.  The user must authenticate again.)
+14:41:22.099666 [info ]: Started building task graph
+14:41:22.102000 [info ]: Finished building task graph [  0.00s]
+14:41:22.114798 [info ]: Started rendering (17 nodes)
+14:41:22.115849 [info ]: Started model staging.stg_menu
+14:41:22.116162 [debug]: Started rendering model staging.stg_menu
+14:41:22.117126 [info ]: Started model marts.mart_review_insights
+14:41:22.117148 [debug]: Started rendering model marts.mart_review_insights
+14:41:22.117171 [info ]: Started model staging.stg_reviews
+14:41:22.117179 [debug]: Started rendering model staging.stg_reviews
+14:41:22.117202 [info ]: Started model marts.mart_restaurants_performance
+14:41:22.117217 [debug]: Started rendering model marts.mart_restaurants_performance
+14:41:22.117235 [info ]: Started model marts.mart_delivery_sla
+14:41:22.117249 [debug]: Started rendering model marts.mart_delivery_sla
+14:41:22.117294 [info ]: Started model marts.mart_daily_city_revenue
+14:41:22.117345 [debug]: Started rendering model marts.mart_daily_city_revenue
+14:41:22.117364 [info ]: Started model marts.fact_orders
+14:41:22.117374 [debug]: Started rendering model marts.fact_orders
+14:41:22.117388 [info ]: Started model marts.fact_order_items
+14:41:22.117397 [debug]: Started rendering model marts.fact_order_items
+14:41:22.117412 [info ]: Started model staging.stg_orders
+14:41:22.117428 [debug]: Started rendering model staging.stg_orders
+14:41:22.117442 [info ]: Started model staging.stg_order_items
+14:41:22.117448 [debug]: Started rendering model staging.stg_order_items
+14:41:22.117461 [info ]: Started model marts.dim_restaurants
+14:41:22.117468 [debug]: Started rendering model marts.dim_restaurants
+14:41:22.117480 [info ]: Started model staging.stg_restaurants
+14:41:22.117491 [debug]: Started rendering model staging.stg_restaurants
+14:41:22.117505 [info ]: Started model marts.dim_food
+14:41:22.117515 [debug]: Started rendering model marts.dim_food
+14:41:22.117529 [info ]: Started model staging.stg_food
+14:41:22.117536 [debug]: Started rendering model staging.stg_food
+14:41:22.117550 [info ]: Started model marts.dim_date
+14:41:22.117563 [debug]: Started rendering model marts.dim_date
+14:41:22.117578 [info ]: Started model marts.dim_customer
+14:41:22.117586 [debug]: Started rendering model marts.dim_customer
+14:41:22.117602 [info ]: Started model staging.stg_users
+14:41:22.117614 [debug]: Started rendering model staging.stg_users
+14:41:22.129853 [error]: [JinjaError (dbt1501)]: Failed to render SQL not a key type: Source not found for source name: ai, table name: review_enriched
+(in models/marts/mart_review_insights.sql:11:6)
+  --> models/marts/mart_review_insights.sql:11:6
+14:41:22.130500 [debug]: Finished rendering [  0.01s] model marts.mart_review_insights [error]
+14:41:22.131069 [info ]: Started analyzing (17 nodes)
+14:41:22.131102 [debug]: Started analyzing model marts.mart_review_insights
+14:41:22.131426 [debug]: Finished analyzing [  0.00s] model marts.mart_review_insights [skipped]
+14:41:22.131456 [info ]:     Failed [  0.01s] model marts.mart_review_insights (table)
+14:41:22.161486 [debug]: Compiled SQL for node model.doordash.stg_orders at target\.lsp\compiled\doordash\models\staging\stg_orders.sql
+14:41:22.162131 [debug]: Compiled SQL for node model.doordash.dim_date at target\.lsp\compiled\doordash\models\marts\dim_date.sql
+14:41:22.162441 [debug]: Compiled SQL for node model.doordash.stg_restaurants at target\.lsp\compiled\doordash\models\staging\stg_restaurants.sql
+14:41:22.163869 [debug]: Compiled SQL for node model.doordash.stg_reviews at target\.lsp\compiled\doordash\models\staging\stg_reviews.sql
+14:41:22.163882 [debug]: Finished rendering [  0.05s] model staging.stg_orders [success]
+14:41:22.163935 [debug]: Started analyzing model staging.stg_orders
+14:41:22.163966 [debug]: Finished rendering [  0.05s] model marts.dim_date [success]
+14:41:22.163980 [debug]: Started analyzing model marts.dim_date
+14:41:22.164002 [debug]: Finished rendering [  0.05s] model staging.stg_restaurants [success]
+14:41:22.164015 [debug]: Started analyzing model staging.stg_restaurants
+14:41:22.164582 [debug]: Finished rendering [  0.05s] model staging.stg_reviews [success]
+14:41:22.164622 [debug]: Started analyzing model staging.stg_reviews
+14:41:22.164849 [debug]: Compiled SQL for node model.doordash.mart_daily_city_revenue at target\.lsp\compiled\doordash\models\marts\mart_daily_city_revenue.sql
+14:41:22.165090 [debug]: Compiled SQL for node model.doordash.mart_restaurants_performance at target\.lsp\compiled\doordash\models\marts\mart_restaurants_performance.sql
+14:41:22.166041 [debug]: Finished rendering [  0.05s] model marts.mart_daily_city_revenue [success]
+14:41:22.166141 [debug]: Started analyzing model marts.mart_daily_city_revenue
+14:41:22.167613 [debug]: Finished rendering [  0.05s] model marts.mart_restaurants_performance [success]
+14:41:22.167687 [debug]: Started analyzing model marts.mart_restaurants_performance
+14:41:22.169136 [debug]: Compiled SQL for node model.doordash.stg_order_items at target\.lsp\compiled\doordash\models\staging\stg_order_items.sql
+14:41:22.169781 [debug]: Compiled SQL for node model.doordash.dim_customer at target\.lsp\compiled\doordash\models\marts\dim_customer.sql
+14:41:22.170370 [debug]: Compiled SQL for node model.doordash.dim_restaurants at target\.lsp\compiled\doordash\models\marts\dim_restaurants.sql
+14:41:22.171139 [debug]: Finished rendering [  0.05s] model marts.dim_customer [success]
+14:41:22.171212 [debug]: Started analyzing model marts.dim_customer
+14:41:22.171362 [debug]: Finished rendering [  0.05s] model staging.stg_order_items [success]
+14:41:22.171447 [debug]: Started analyzing model staging.stg_order_items
+14:41:22.171484 [debug]: Finished rendering [  0.05s] model marts.dim_restaurants [success]
+14:41:22.171501 [debug]: Started analyzing model marts.dim_restaurants
+14:41:22.172045 [debug]: Compiled SQL for node model.doordash.stg_users at target\.lsp\compiled\doordash\models\staging\stg_users.sql
+14:41:22.173030 [debug]: Compiled SQL for node model.doordash.dim_food at target\.lsp\compiled\doordash\models\marts\dim_food.sql
+14:41:22.173148 [debug]: Finished rendering [  0.06s] model staging.stg_users [success]
+14:41:22.173243 [debug]: Started analyzing model staging.stg_users
+14:41:22.173301 [debug]: Compiled SQL for node model.doordash.mart_delivery_sla at target\.lsp\compiled\doordash\models\marts\mart_delivery_sla.sql
+14:41:22.174834 [debug]: Finished rendering [  0.06s] model marts.mart_delivery_sla [success]
+14:41:22.174893 [debug]: Started analyzing model marts.mart_delivery_sla
+14:41:22.174923 [debug]: Finished rendering [  0.06s] model marts.dim_food [success]
+14:41:22.174937 [debug]: Started analyzing model marts.dim_food
+14:41:22.175570 [debug]: Compiled SQL for node model.doordash.stg_food at target\.lsp\compiled\doordash\models\staging\stg_food.sql
+14:41:22.176556 [debug]: Compiled SQL for node model.doordash.stg_menu at target\.lsp\compiled\doordash\models\staging\stg_menu.sql
+14:41:22.178188 [debug]: Finished rendering [  0.06s] model staging.stg_food [success]
+14:41:22.178317 [debug]: Started analyzing model staging.stg_food
+14:41:22.178374 [debug]: Finished rendering [  0.06s] model staging.stg_menu [success]
+14:41:22.178392 [debug]: Started analyzing model staging.stg_menu
+14:41:22.190869 [debug]: Finished analyzing [  0.02s] model marts.dim_food [success]
+14:41:22.190908 [info ]:  Succeeded [  0.07s] model marts.dim_food (table)
+14:41:22.190940 [debug]: Finished analyzing [  0.02s] model marts.mart_daily_city_revenue [success]
+14:41:22.190955 [info ]:  Succeeded [  0.07s] model marts.mart_daily_city_revenue (table)
+14:41:22.190976 [debug]: Finished analyzing [  0.02s] model staging.stg_users [success]
+14:41:22.190986 [info ]:  Succeeded [  0.07s] model staging.stg_users (view)
+14:41:22.191000 [debug]: Finished analyzing [  0.01s] model staging.stg_food [success]
+14:41:22.191007 [info ]:  Succeeded [  0.07s] model staging.stg_food (view)
+14:41:22.191020 [debug]: Finished analyzing [  0.01s] model staging.stg_menu [success]
+14:41:22.191026 [info ]:  Succeeded [  0.07s] model staging.stg_menu (view)
+14:41:22.191040 [debug]: Finished analyzing [  0.02s] model marts.mart_restaurants_performance [success]
+14:41:22.191049 [info ]:  Succeeded [  0.07s] model marts.mart_restaurants_performance (table)
+14:41:22.191063 [debug]: Finished analyzing [  0.02s] model marts.dim_customer [success]
+14:41:22.191070 [info ]:  Succeeded [  0.07s] model marts.dim_customer (table)
+14:41:22.191083 [debug]: Finished analyzing [  0.02s] model marts.dim_restaurants [success]
+14:41:22.191093 [info ]:  Succeeded [  0.07s] model marts.dim_restaurants (table)
+14:41:22.191105 [debug]: Finished analyzing [  0.02s] model marts.mart_delivery_sla [success]
+14:41:22.191111 [info ]:  Succeeded [  0.07s] model marts.mart_delivery_sla (table)
+14:41:22.191122 [debug]: Finished analyzing [  0.02s] model staging.stg_order_items [success]
+14:41:22.191130 [info ]:  Succeeded [  0.07s] model staging.stg_order_items (view)
+14:41:22.191142 [debug]: Finished analyzing [  0.03s] model staging.stg_reviews [success]
+14:41:22.191151 [info ]:  Succeeded [  0.07s] model staging.stg_reviews (view)
+14:41:22.191165 [debug]: Finished analyzing [  0.03s] model staging.stg_orders [success]
+14:41:22.191172 [info ]:  Succeeded [  0.07s] model staging.stg_orders (view)
+14:41:22.191184 [debug]: Finished analyzing [  0.03s] model marts.dim_date [success]
+14:41:22.191189 [info ]:  Succeeded [  0.07s] model marts.dim_date (table)
+14:41:22.192425 [debug]: Finished analyzing [  0.03s] model staging.stg_restaurants [success]
+14:41:22.192483 [info ]:  Succeeded [  0.07s] model staging.stg_restaurants (view)
+14:41:22.896740 [debug]: create_debug_span(...).entered() took 25µs
+14:41:23.312782 [debug]: Query executed on node model.doordash.fact_orders:
+SHOW OBJECTS IN SCHEMA "DOORDASH"."MARTS" LIMIT 10000
+14:41:23.313863 [debug]: create_debug_span(...).entered() took 25.6µs
+14:41:23.314846 [debug]: create_debug_span(...).entered() took 12.6µs
+14:41:23.666037 [debug]: Query executed on node model.doordash.fact_orders:
+show objects like 'FACT_ORDERS' in schema DOORDASH.marts
+/* {"app": "dbt", "connection_name": "", "dbt_version": "2.0.0", "profile_name": "default", "target_name": "dev"} */
+14:41:23.668568 [debug]: Compiled SQL for node model.doordash.fact_orders at target\.lsp\compiled\doordash\models\marts\fact_orders.sql
+14:41:23.668934 [debug]: Finished rendering [  1.55s] model marts.fact_orders [success]
+14:41:23.668989 [debug]: Started analyzing model marts.fact_orders
+14:41:23.669290 [debug]: Query executed on node model.doordash.fact_order_items:
+SHOW OBJECTS IN SCHEMA "DOORDASH"."MARTS" LIMIT 10000
+14:41:23.669422 [debug]: Finished analyzing [  0.00s] model marts.fact_orders [success]
+14:41:23.669476 [info ]:  Succeeded [  1.55s] model marts.fact_orders (incremental)
+14:41:23.670016 [debug]: create_debug_span(...).entered() took 11.9µs
+14:41:23.996327 [debug]: Query executed on node model.doordash.fact_order_items:
+show objects like 'FACT_ORDER_ITEMS' in schema DOORDASH.marts
+/* {"app": "dbt", "connection_name": "", "dbt_version": "2.0.0", "profile_name": "default", "target_name": "dev"} */
+14:41:23.997905 [debug]: Compiled SQL for node model.doordash.fact_order_items at target\.lsp\compiled\doordash\models\marts\fact_order_items.sql
+14:41:23.998338 [debug]: Finished rendering [  1.88s] model marts.fact_order_items [success]
+14:41:23.998377 [info ]: Finished rendering [  1.88s] (17 nodes, 0 skipped, 1 errors)
+14:41:23.998420 [debug]: Started analyzing model marts.fact_order_items
+14:41:24.000824 [debug]: Finished analyzing [  0.00s] model marts.fact_order_items [success]
+14:41:24.000866 [info ]: Finished analyzing [  1.87s] (17 nodes, 1 skipped, 0 errors)
+14:41:24.000885 [info ]:  Succeeded [  1.88s] model marts.fact_order_items (incremental)
+14:41:24.012848 [info ]: Started scheduling
+14:41:24.012972 [info ]: Finished scheduling [  0.00s]
+14:41:24.013589 [info ]: 
+==================== Execution Summary =====================
+Finished 'compile' with 1 error for target 'dev' [2.6s]
+Processed: 17 models
+Summary: 17 total | 16 success | 1 error
+14:41:24.014217 [info ]: Cached model count updated: 17 models (accurate)
+==================== 2026-09-06T14:41:47.450095Z | b967a173-2bd7-4e7c-bbb0-bc62846bfa1e ====================
+14:41:47.450374 [info ]: Started loading project
+14:41:47.452086 [info ]: Loading profiles.yml
+14:41:47.483131 [info ]: Started parsing
+14:41:47.545720 [info ]: Finished loading project [  0.10s]
+14:41:47.548656 [debug]: Finished parsing models/staging/ai_sources.yml [  0.00s]
+14:41:47.551475 [debug]: Finished parsing models/marts/mart_review_insights.sql [  0.00s]
+14:41:47.689798 [warn ]: [UnusedResourceConfigPath (dbt1097)]: Configuration paths exist in your dbt_project.yml file which do not apply to any resources.
+There are 1 unused configuration paths:
+- models.snapshots.doordash
+14:41:47.692019 [info ]: Finished parsing [  0.21s]
+14:41:47.709598 [info ]: 
+==================== Execution Summary =====================
+Finished 'compile' with 1 warning for target 'dev' [259ms]
+14:41:47.710074 [info ]: Cached model count updated: 17 models (accurate)
+==================== 2026-09-06T14:41:47.780371Z | 34df0def-d3ce-4d72-ad08-0b0cfc84eb0b ====================
+14:41:47.780440 [info ]: Started loading project
+14:41:47.781805 [info ]: Loading profiles.yml
+14:41:47.798003 [info ]: Started parsing
+14:41:47.857189 [info ]: Finished loading project [  0.08s]
+14:41:47.858603 [debug]: Finished parsing models/staging/ai_sources.yml [  0.00s]
+14:41:47.870181 [info ]: Finished parsing [  0.07s]
+14:41:47.871857 [info ]: 
+==================== Execution Summary =====================
+Finished 'compile' successfully for target 'dev' [91ms]
+14:41:47.871940 [info ]: Cached model count updated: 17 models (accurate)
+==================== 2026-09-06T14:41:47.944970Z | 4e9c842a-b7ac-428c-91b8-d63287a717bc ====================
+14:41:47.945082 [info ]: Started loading project
+14:41:47.946233 [info ]: Loading profiles.yml
+14:41:47.962975 [info ]: Started parsing
+14:41:48.017928 [info ]: Finished loading project [  0.07s]
+14:41:48.019033 [debug]: Finished parsing models/staging/ai_sources.yml [  0.00s]
+14:41:48.020752 [debug]: Finished parsing models/marts/mart_review_insights.sql [  0.00s]
+14:41:48.136581 [warn ]: [UnusedResourceConfigPath (dbt1097)]: Configuration paths exist in your dbt_project.yml file which do not apply to any resources.
+There are 1 unused configuration paths:
+- models.snapshots.doordash
+14:41:48.138409 [info ]: Finished parsing [  0.18s]
+14:41:48.142175 [info ]: Cached model count updated: 17 models (estimate)
+14:41:48.142212 [info ]: Cached model count updated: 17 models (accurate)
+14:41:48.142309 [info ]: Started scheduling
+14:41:48.145578 [info ]: Finished scheduling [  0.00s]
+14:41:48.145604 [debug]: Compilation - 3 nodes selected: {"model.doordash.mart_review_insights", "model.doordash.stg_restaurants", "model.doordash.stg_reviews"}
+14:41:48.149538 [info ]: Started building task graph
+14:41:48.149635 [info ]: Finished building task graph [  0.00s]
+14:41:48.156361 [info ]: Started rendering (3 nodes)
+14:41:48.156403 [info ]: Started model marts.mart_review_insights
+14:41:48.156420 [debug]: Started rendering model marts.mart_review_insights
+14:41:48.156459 [info ]: Started model staging.stg_reviews
+14:41:48.156468 [debug]: Started rendering model staging.stg_reviews
+14:41:48.156482 [info ]: Started model staging.stg_restaurants
+14:41:48.156490 [debug]: Started rendering model staging.stg_restaurants
+14:41:48.158750 [debug]: Compiled SQL for node model.doordash.stg_reviews at target\.lsp\compiled\doordash\models\staging\stg_reviews.sql
+14:41:48.158787 [debug]: Compiled SQL for node model.doordash.stg_restaurants at target\.lsp\compiled\doordash\models\staging\stg_restaurants.sql
+14:41:48.158901 [debug]: Finished rendering [  0.00s] model staging.stg_restaurants [success]
+14:41:48.158965 [info ]: Started analyzing (3 nodes)
+14:41:48.158986 [debug]: Started analyzing model staging.stg_restaurants
+14:41:48.159021 [debug]: Finished rendering [  0.00s] model staging.stg_reviews [success]
+14:41:48.159038 [debug]: Started analyzing model staging.stg_reviews
+14:41:48.159965 [debug]: Compiled SQL for node model.doordash.mart_review_insights at target\.lsp\compiled\doordash\models\marts\mart_review_insights.sql
+14:41:48.160141 [debug]: Finished rendering [  0.00s] model marts.mart_review_insights [success]
+14:41:48.160164 [info ]: Finished rendering [  0.00s] (3 nodes, 0 skipped, 0 errors)
+14:41:48.160223 [debug]: Started analyzing model marts.mart_review_insights
+14:41:48.161026 [debug]: Finished analyzing [  0.00s] model staging.stg_reviews [success]
+14:41:48.161052 [info ]:  Succeeded [  0.00s] model staging.stg_reviews (view)
+14:41:48.161575 [debug]: Finished analyzing [  0.00s] model staging.stg_restaurants [success]
+14:41:48.161596 [info ]:  Succeeded [  0.00s] model staging.stg_restaurants (view)
+14:41:48.178121 [debug]: Finished analyzing [  0.02s] model marts.mart_review_insights [success]
+14:41:48.178176 [info ]: Finished analyzing [  0.02s] (3 nodes, 0 skipped, 0 errors)
+14:41:48.178197 [info ]:  Succeeded [  0.02s] model marts.mart_review_insights (table)
+14:41:48.187158 [info ]: Started scheduling
+14:41:48.187323 [info ]: Finished scheduling [  0.00s]
+14:41:48.188800 [info ]: 
+==================== Execution Summary =====================
+Finished 'compile' with 1 warning for target 'dev' [243ms]
+Processed: 3 models
+Summary: 3 total | 3 success
+14:41:48.188939 [info ]: Cached model count updated: 17 models (accurate)
+==================== 2026-09-06T14:41:49.754720Z | 0d6d62d2-7fe2-4beb-96cb-d7711a42e718 ====================
+14:41:49.754822 [info ]: Started loading project
+14:41:49.755487 [info ]: Loading profiles.yml
+14:41:49.801673 [info ]: Cached model count updated: 17 models (estimate)
+14:41:49.801703 [info ]: Cached model count updated: 17 models (accurate)
+14:41:49.801754 [info ]: Started scheduling
+14:41:49.801942 [info ]: Finished scheduling [  0.00s]
+14:41:49.801960 [debug]: Compilation - 17 nodes selected: {"model.doordash.dim_customer", "model.doordash.dim_date", "model.doordash.dim_food", "model.doordash.dim_restaurants", "model.doordash.fact_order_items", "model.doordash.fact_orders", "model.doordash.mart_daily_city_revenue", "model.doordash.mart_delivery_sla", "model.doordash.mart_restaurants_performance", "model.doordash.mart_review_insights", "model.doordash.stg_food", "model.doordash.stg_menu", "model.doordash.stg_order_items", "model.doordash.stg_orders", "model.doordash.stg_restaurants", "model.doordash.stg_reviews", "model.doordash.stg_users"}
+14:41:49.803530 [debug]:    Started downloading relations (1 items)
+14:41:49.803593 [info ]: Finished loading project [  0.05s]
+14:41:49.803663 [debug]: create_debug_span(...).entered() took 14.6µs
+14:41:50.158857 [debug]: Query executed on node unknown:
+SHOW OBJECTS IN SCHEMA "DOORDASH"."MARTS" LIMIT 10000
+14:41:50.160747 [debug]:   Finished [  0.36s] downloading relations (1 items)
+14:41:50.162326 [info ]: Started building task graph
+14:41:50.162532 [info ]: Finished building task graph [  0.00s]
+14:41:50.171853 [info ]: Started rendering (17 nodes)
+14:41:50.171910 [info ]: Started model staging.stg_menu
+14:41:50.171926 [debug]: Started rendering model staging.stg_menu
+14:41:50.171964 [info ]: Started model marts.mart_review_insights
+14:41:50.171974 [debug]: Started rendering model marts.mart_review_insights
+14:41:50.171985 [info ]: Started model staging.stg_reviews
+14:41:50.171993 [debug]: Started rendering model staging.stg_reviews
+14:41:50.172008 [info ]: Started model marts.mart_restaurants_performance
+14:41:50.172018 [debug]: Started rendering model marts.mart_restaurants_performance
+14:41:50.172035 [info ]: Started model marts.mart_delivery_sla
+14:41:50.172049 [debug]: Started rendering model marts.mart_delivery_sla
+14:41:50.172105 [info ]: Started model marts.mart_daily_city_revenue
+14:41:50.172121 [debug]: Started rendering model marts.mart_daily_city_revenue
+14:41:50.172144 [info ]: Started model marts.fact_orders
+14:41:50.172163 [debug]: Started rendering model marts.fact_orders
+14:41:50.172189 [info ]: Started model marts.fact_order_items
+14:41:50.172203 [debug]: Started rendering model marts.fact_order_items
+14:41:50.172229 [info ]: Started model staging.stg_orders
+14:41:50.172239 [debug]: Started rendering model staging.stg_orders
+14:41:50.172257 [info ]: Started model staging.stg_order_items
+14:41:50.172267 [debug]: Started rendering model staging.stg_order_items
+14:41:50.172285 [info ]: Started model marts.dim_restaurants
+14:41:50.172297 [debug]: Started rendering model marts.dim_restaurants
+14:41:50.172312 [info ]: Started model staging.stg_restaurants
+14:41:50.172322 [debug]: Started rendering model staging.stg_restaurants
+14:41:50.172341 [info ]: Started model marts.dim_food
+14:41:50.172355 [debug]: Started rendering model marts.dim_food
+14:41:50.172373 [info ]: Started model staging.stg_food
+14:41:50.172382 [debug]: Started rendering model staging.stg_food
+14:41:50.172404 [info ]: Started model marts.dim_date
+14:41:50.172419 [debug]: Started rendering model marts.dim_date
+14:41:50.172440 [info ]: Started model marts.dim_customer
+14:41:50.172449 [debug]: Started rendering model marts.dim_customer
+14:41:50.172463 [info ]: Started model staging.stg_users
+14:41:50.172469 [debug]: Started rendering model staging.stg_users
+14:41:50.172654 [debug]: Compiled SQL for node model.doordash.stg_menu at target\.lsp\compiled\doordash\models\staging\stg_menu.sql
+14:41:50.172781 [debug]: Finished rendering [  0.00s] model staging.stg_menu [success]
+14:41:50.172826 [info ]: Started analyzing (17 nodes)
+14:41:50.172839 [debug]: Started analyzing model staging.stg_menu
+14:41:50.172861 [debug]: Compiled SQL for node model.doordash.mart_restaurants_performance at target\.lsp\compiled\doordash\models\marts\mart_restaurants_performance.sql
+14:41:50.173197 [debug]: Finished rendering [  0.00s] model marts.mart_restaurants_performance [success]
+14:41:50.173254 [debug]: Started analyzing model marts.mart_restaurants_performance
+14:41:50.173321 [debug]: Compiled SQL for node model.doordash.stg_reviews at target\.lsp\compiled\doordash\models\staging\stg_reviews.sql
+14:41:50.173417 [debug]: Finished rendering [  0.00s] model staging.stg_reviews [success]
+14:41:50.173441 [debug]: Started analyzing model staging.stg_reviews
+14:41:50.173782 [debug]: Compiled SQL for node model.doordash.fact_order_items at target\.lsp\compiled\doordash\models\marts\fact_order_items.sql
+14:41:50.173799 [debug]: Finished analyzing [  0.00s] model staging.stg_menu [success]
+14:41:50.173820 [info ]:  Succeeded [-------] model staging.stg_menu (view)
+14:41:50.173976 [debug]: Finished rendering [  0.00s] model marts.fact_order_items [success]
+14:41:50.173977 [debug]: Compiled SQL for node model.doordash.fact_orders at target\.lsp\compiled\doordash\models\marts\fact_orders.sql
+14:41:50.173999 [debug]: Started analyzing model marts.fact_order_items
+14:41:50.174036 [debug]: Compiled SQL for node model.doordash.mart_review_insights at target\.lsp\compiled\doordash\models\marts\mart_review_insights.sql
+14:41:50.174170 [debug]: Finished rendering [  0.00s] model marts.fact_orders [success]
+14:41:50.174202 [debug]: Started analyzing model marts.fact_orders
+14:41:50.174234 [debug]: Finished rendering [  0.00s] model marts.mart_review_insights [success]
+14:41:50.174248 [debug]: Started analyzing model marts.mart_review_insights
+14:41:50.174502 [debug]: Finished analyzing [  0.00s] model marts.fact_orders [success]
+14:41:50.174523 [info ]:  Succeeded [  0.00s] model marts.fact_orders (incremental)
+14:41:50.174929 [debug]: Finished analyzing [  0.00s] model marts.fact_order_items [success]
+14:41:50.174946 [info ]:  Succeeded [  0.00s] model marts.fact_order_items (incremental)
+14:41:50.175058 [debug]: Compiled SQL for node model.doordash.stg_orders at target\.lsp\compiled\doordash\models\staging\stg_orders.sql
+14:41:50.175201 [debug]: Finished rendering [  0.00s] model staging.stg_orders [success]
+14:41:50.175223 [debug]: Started analyzing model staging.stg_orders
+14:41:50.175249 [debug]: Finished analyzing [  0.00s] model marts.mart_restaurants_performance [success]
+14:41:50.175261 [info ]:  Succeeded [  0.00s] model marts.mart_restaurants_performance (table)
+14:41:50.175506 [debug]: Compiled SQL for node model.doordash.stg_restaurants at target\.lsp\compiled\doordash\models\staging\stg_restaurants.sql
+14:41:50.175630 [debug]: Finished analyzing [  0.00s] model marts.mart_review_insights [success]
+14:41:50.175652 [info ]:  Succeeded [  0.00s] model marts.mart_review_insights (table)
+14:41:50.175673 [debug]: Finished analyzing [  0.00s] model staging.stg_reviews [success]
+14:41:50.175675 [debug]: Compiled SQL for node model.doordash.dim_date at target\.lsp\compiled\doordash\models\marts\dim_date.sql
+14:41:50.175683 [info ]:  Succeeded [  0.00s] model staging.stg_reviews (view)
+14:41:50.175709 [debug]: Finished rendering [  0.00s] model staging.stg_restaurants [success]
+14:41:50.175728 [debug]: Started analyzing model staging.stg_restaurants
+14:41:50.175968 [debug]: Compiled SQL for node model.doordash.dim_restaurants at target\.lsp\compiled\doordash\models\marts\dim_restaurants.sql
+14:41:50.175996 [debug]: Compiled SQL for node model.doordash.stg_food at target\.lsp\compiled\doordash\models\staging\stg_food.sql
+14:41:50.176068 [debug]: Compiled SQL for node model.doordash.mart_delivery_sla at target\.lsp\compiled\doordash\models\marts\mart_delivery_sla.sql
+14:41:50.176120 [debug]: Compiled SQL for node model.doordash.stg_order_items at target\.lsp\compiled\doordash\models\staging\stg_order_items.sql
+14:41:50.176381 [debug]: Compiled SQL for node model.doordash.dim_customer at target\.lsp\compiled\doordash\models\marts\dim_customer.sql
+14:41:50.176434 [debug]: Compiled SQL for node model.doordash.dim_food at target\.lsp\compiled\doordash\models\marts\dim_food.sql
+14:41:50.176491 [debug]: Finished rendering [  0.00s] model marts.dim_date [success]
+14:41:50.176517 [debug]: Started analyzing model marts.dim_date
+14:41:50.176547 [debug]: Finished rendering [  0.00s] model marts.dim_restaurants [success]
+14:41:50.176559 [debug]: Started analyzing model marts.dim_restaurants
+14:41:50.176564 [debug]: Compiled SQL for node model.doordash.mart_daily_city_revenue at target\.lsp\compiled\doordash\models\marts\mart_daily_city_revenue.sql
+14:41:50.176619 [debug]: Compiled SQL for node model.doordash.stg_users at target\.lsp\compiled\doordash\models\staging\stg_users.sql
+14:41:50.176638 [debug]: Finished rendering [  0.00s] model staging.stg_food [success]
+14:41:50.176659 [debug]: Started analyzing model staging.stg_food
+14:41:50.176821 [debug]: Finished rendering [  0.00s] model marts.mart_delivery_sla [success]
+14:41:50.176845 [debug]: Started analyzing model marts.mart_delivery_sla
+14:41:50.176862 [debug]: Finished analyzing [  0.00s] model staging.stg_food [success]
+14:41:50.176874 [info ]:  Succeeded [  0.00s] model staging.stg_food (view)
+14:41:50.176891 [debug]: Finished analyzing [  0.00s] model marts.dim_date [success]
+14:41:50.176901 [info ]:  Succeeded [  0.00s] model marts.dim_date (table)
+14:41:50.176933 [debug]: Finished rendering [  0.00s] model staging.stg_order_items [success]
+14:41:50.176949 [debug]: Started analyzing model staging.stg_order_items
+14:41:50.177164 [debug]: Finished analyzing [  0.00s] model marts.mart_delivery_sla [success]
+14:41:50.177181 [info ]:  Succeeded [  0.00s] model marts.mart_delivery_sla (table)
+14:41:50.177201 [debug]: Finished analyzing [  0.00s] model staging.stg_order_items [success]
+14:41:50.177211 [info ]:  Succeeded [  0.00s] model staging.stg_order_items (view)
+14:41:50.177229 [debug]: Finished analyzing [  0.00s] model marts.dim_restaurants [success]
+14:41:50.177239 [info ]:  Succeeded [  0.00s] model marts.dim_restaurants (table)
+14:41:50.177257 [debug]: Finished rendering [  0.00s] model marts.dim_customer [success]
+14:41:50.177270 [debug]: Started analyzing model marts.dim_customer
+14:41:50.177295 [debug]: Finished rendering [  0.00s] model marts.dim_food [success]
+14:41:50.177307 [debug]: Started analyzing model marts.dim_food
+14:41:50.177336 [debug]: Finished rendering [  0.01s] model marts.mart_daily_city_revenue [success]
+14:41:50.177350 [debug]: Started analyzing model marts.mart_daily_city_revenue
+14:41:50.177366 [debug]: Finished rendering [  0.00s] model staging.stg_users [success]
+14:41:50.177375 [info ]: Finished rendering [  0.01s] (17 nodes, 0 skipped, 0 errors)
+14:41:50.177386 [debug]: Started analyzing model staging.stg_users
+14:41:50.177646 [debug]: Finished analyzing [  0.00s] model marts.dim_food [success]
+14:41:50.177664 [info ]:  Succeeded [  0.00s] model marts.dim_food (table)
+14:41:50.177717 [debug]: Finished analyzing [  0.00s] model marts.dim_customer [success]
+14:41:50.177736 [info ]:  Succeeded [  0.00s] model marts.dim_customer (table)
+14:41:50.177889 [debug]: Finished analyzing [  0.00s] model staging.stg_users [success]
+14:41:50.177911 [info ]:  Succeeded [  0.00s] model staging.stg_users (view)
+14:41:50.177946 [debug]: Finished analyzing [  0.00s] model staging.stg_orders [success]
+14:41:50.177968 [info ]:  Succeeded [  0.00s] model staging.stg_orders (view)
+14:41:50.178201 [debug]: Finished analyzing [  0.00s] model marts.mart_daily_city_revenue [success]
+14:41:50.178290 [info ]:  Succeeded [  0.01s] model marts.mart_daily_city_revenue (table)
+14:41:50.179010 [debug]: Finished analyzing [  0.00s] model staging.stg_restaurants [success]
+14:41:50.179029 [info ]: Finished analyzing [  0.01s] (17 nodes, 0 skipped, 0 errors)
+14:41:50.179039 [info ]:  Succeeded [  0.01s] model staging.stg_restaurants (view)
+14:41:50.188000 [info ]: Started scheduling
+14:41:50.188099 [info ]: Finished scheduling [  0.00s]
+14:41:50.188227 [info ]: 
+==================== Execution Summary =====================
+Finished 'compile' successfully for target 'dev' [433ms]
+Processed: 17 models
+Summary: 17 total | 17 success
+14:41:50.188380 [info ]: Cached model count updated: 17 models (accurate)
+==================== 2026-09-06T14:51:27.239535Z | 267610fa-76b9-48ea-ae3f-853f192d39f3 ====================
+14:51:27.239736 [info ]: Started loading project
+14:51:27.241054 [info ]: Loading profiles.yml
+14:51:27.242676 [error]: [InvalidConfig (dbt1005)]: In file `profiles.yml`, field `database` is required.
+14:51:27.242796 [info ]: Finished loading project [  0.00s]
+14:51:27.243142 [info ]: 
+==================== Execution Summary =====================
+Finished 'compile' with 1 error [3ms]
+14:51:27.243281 [info ]: Cached model count updated: 17 models (accurate)
+==================== 2026-09-06T14:51:27.400373Z | 73330918-5e40-4360-a0a4-288eea5ff837 ====================
+14:51:27.400428 [info ]: Started loading project
+14:51:27.401238 [info ]: Loading profiles.yml
+14:51:27.401927 [error]: [InvalidConfig (dbt1005)]: In file `profiles.yml`, field `database` is required.
+14:51:27.402029 [info ]: Finished loading project [  0.00s]
+14:51:27.402059 [info ]: Cached model count updated: 17 models (accurate)
+14:51:27.402063 [info ]: 
+==================== Execution Summary =====================
+Finished 'compile' with 1 error [1ms]
+==================== 2026-09-06T14:51:28.943095Z | 9a3d875f-02ab-4fb9-87c1-e67986b30827 ====================
+14:51:28.943318 [info ]: Started loading project
+14:51:28.944480 [info ]: Loading profiles.yml
+14:51:28.946083 [error]: [InvalidConfig (dbt1005)]: In file `profiles.yml`, field `database` is required.
+14:51:28.946255 [info ]: Finished loading project [  0.00s]
+14:51:28.946294 [info ]: 
+==================== Execution Summary =====================
+Finished 'compile' with 1 error [3ms]
+14:51:28.946334 [info ]: Cached model count updated: 17 models (accurate)
+14:51:54.047860 [info ]: Loading profiles.yml
+14:52:08.933866 [info ]: Loading profiles.yml
+==================== 2026-09-06T14:52:25.533583Z | 50c9a69c-d075-4485-9d65-6c516cb8e26f ====================
+14:52:25.533729 [info ]: Started loading project
+14:52:25.534675 [info ]: Loading profiles.yml
+14:52:25.535510 [error]: [InvalidConfig (dbt1005)]: In file `profiles.yml`, field `database` is required.
+14:52:25.535638 [info ]: Finished loading project [  0.00s]
+14:52:25.535667 [info ]: Cached model count updated: 17 models (accurate)
+14:52:25.535676 [info ]: 
+==================== Execution Summary =====================
+Finished 'compile' with 1 error [2ms]
+==================== 2026-09-06T14:52:27.092428Z | e0fd2b89-891e-41d3-b7dc-6739b0b75629 ====================
+14:52:27.092579 [info ]: Started loading project
+14:52:27.093625 [info ]: Loading profiles.yml
+14:52:27.094800 [error]: [InvalidConfig (dbt1005)]: In file `profiles.yml`, field `database` is required.
+14:52:27.094908 [info ]: Finished loading project [  0.00s]
+14:52:27.094945 [info ]: 
+==================== Execution Summary =====================
+Finished 'compile' with 1 error [2ms]
+14:52:27.094968 [info ]: Cached model count updated: 17 models (accurate)
+15:46:21.999604 [info ]: Loading profiles.yml
+15:46:22.741494 [info ]: Loading profiles.yml
+15:46:44.316259 [info ]: Loading profiles.yml
+15:46:44.723559 [info ]: Loading profiles.yml
+15:46:44.917308 [info ]: Loading profiles.yml
+15:46:45.367286 [info ]: Loading profiles.yml
+15:46:45.724354 [info ]: Loading profiles.yml
+15:47:38.820043 [info ]: Loading profiles.yml
+15:48:17.120093 [info ]: Loading profiles.yml
+15:48:17.987487 [info ]: Loading profiles.yml
+15:49:11.539127 [info ]: Loading profiles.yml
+15:49:12.187715 [info ]: Loading profiles.yml
+15:49:23.012610 [info ]: Loading profiles.yml
+15:49:23.754196 [info ]: Loading profiles.yml
+15:57:52.126224 [info ]: Loading profiles.yml
+15:57:54.531535 [info ]: Loading profiles.yml
+15:58:04.036375 [info ]: Loading profiles.yml
+15:58:04.915114 [info ]: Loading profiles.yml
+15:59:14.745830 [info ]: Loading profiles.yml
+15:59:40.491184 [info ]: Loading profiles.yml
+16:00:00.816852 [info ]: Loading profiles.yml
+16:01:48.567700 [info ]: Loading profiles.yml
+16:01:49.433987 [info ]: Loading profiles.yml
+16:01:50.752832 [info ]: Loading profiles.yml
+16:01:55.924211 [info ]: Loading profiles.yml
+16:02:51.852851 [info ]: Loading profiles.yml
+16:03:28.119516 [info ]: Loading profiles.yml
+16:04:09.365670 [info ]: Loading profiles.yml
+16:04:49.663402 [info ]: Loading profiles.yml
+16:04:50.396104 [info ]: Loading profiles.yml
+16:04:50.984439 [info ]: Loading profiles.yml
+16:04:51.601595 [info ]: Loading profiles.yml
+16:06:10.810729 [info ]: Loading profiles.yml
+16:06:11.065298 [info ]: Loading profiles.yml
+16:06:11.344520 [info ]: Loading profiles.yml
+16:06:12.396635 [info ]: Loading profiles.yml
+16:06:12.673708 [info ]: Loading profiles.yml
+16:06:24.073296 [info ]: Loading profiles.yml
+==================== 2026-09-06T16:06:26.418690Z | c8d3e7af-5dbe-4365-aef2-721edee9f69e ====================
+16:06:26.418987 [info ]: Started loading project
+16:06:26.419967 [info ]: Finished loading project [  0.00s]
+16:06:26.420224 [error]: [IoError (dbt1001)]: Cannot open file C:\Users\madin\OneDrive\Documents\Projects\DOORDASH-PIPELINE\DOORDASH-PIPELINE\dbt_project.yml: Failed to open file: C:\Users\madin\OneDrive\Documents\Projects\DOORDASH-PIPELINE\DOORDASH-PIPELINE\dbt_project.yml: The system cannot find the file specified. (os error 2): The system cannot find the file specified. (os error 2)
+16:06:26.420810 [info ]: 
+==================== Execution Summary =====================
+Finished 'compile' with 1 error [2ms]
+16:06:26.420913 [info ]: Cached model count updated: 17 models (accurate)
+==================== 2026-09-06T16:06:27.973037Z | 5ddb19d7-835a-41d1-9715-80e34a2772e0 ====================
+16:06:27.973155 [info ]: Started loading project
+16:06:27.973307 [info ]: Finished loading project [  0.00s]
+16:06:27.973366 [error]: [IoError (dbt1001)]: Cannot open file C:\Users\madin\OneDrive\Documents\Projects\DOORDASH-PIPELINE\DOORDASH-PIPELINE\dbt_project.yml: Failed to open file: C:\Users\madin\OneDrive\Documents\Projects\DOORDASH-PIPELINE\DOORDASH-PIPELINE\dbt_project.yml: The system cannot find the file specified. (os error 2): The system cannot find the file specified. (os error 2)
+16:06:27.973432 [info ]: 
+==================== Execution Summary =====================
+Finished 'compile' with 1 error [395us]
+16:06:27.973522 [info ]: Cached model count updated: 17 models (accurate)
